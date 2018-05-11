@@ -6,7 +6,7 @@ Der Schutz Ihrer Privatsphäre ist für uns von höchster Bedeutung. Diese Daten
 
 Ecosia GmbH
 
-Schinkestraße 9
+Schinkestraße 9  
 12047 Berlin Germany
 
 info@ecosia.org
