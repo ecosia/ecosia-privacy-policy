@@ -1,25 +1,24 @@
 
 Der Schutz Ihrer Privatsphäre ist für uns von höchster Bedeutung. Diese Datenschutzerklärung informiert darüber, wie wir personenbezogene Daten verarbeiten. Wir sind uns bewusst, welche Bedeutung die Verarbeitung personenbezogener Daten für unsere Nutzer hat. Deshalb halten wir alle deutschen und europäischen Bestimmungen zum Datenschutz ein.
 
-1.  ## Kontakt & Datenschutzbeauftragter
+## 1. Kontakt & Datenschutzbeauftragter
 
 
 Ecosia GmbH
 
 Schinkestraße 9
-
 12047 Berlin Germany
 
-info@ecosia.org
+[info@ecosia.org](mailto:info@ecosia.org)
 
 Unseren Datenschutzbeauftragten erreichen Sie unter privacy@ecosia.org oder unserer Postadresse mit dem Zusatz „Datenschutz“.
 
-2.  ## Personenbezogene Daten
+## 2. Personenbezogene Daten
 
 
 Personenbezogene Daten sind alle Informationen über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren Person. Darunter fallen Informationen und Angaben wie Ihr Name, Ihre Adresse oder sonstige Postanschrift, die Telefonnummer oder auch Ihre E-Mail-Adresse.
 
-3.  ## Rechtsgrundlage
+## 3. Rechtsgrundlage
 
 
 Die Verarbeitung Ihrer Daten geschieht auf den folgenden Rechtsgrundlagen:
@@ -29,7 +28,7 @@ Die Verarbeitung Ihrer Daten geschieht auf den folgenden Rechtsgrundlagen:
 -   im Übrigen, insbesondere bei statistischen Daten und Online-Identifikatoren, auf Grundlage berechtigter Interessen, Art. 6 Abs. 1 lit. f) DS-GVO
 
 
-4.  ## Berechtigte Interessen
+## 4. Berechtigte Interessen
 
 
 Bei der Verarbeitung Ihrer Daten verfolgen wir die folgenden berechtigten Interessen:
@@ -40,7 +39,7 @@ Bei der Verarbeitung Ihrer Daten verfolgen wir die folgenden berechtigten Intere
 -   Statistik
 
 
-5.  ## Ihre Rechte
+## 5. Ihre Rechte
 
 
 Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
@@ -54,17 +53,17 @@ Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden perso
 -   Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
 
 
-6.  ## Datenquellen
+## 6. Datenquellen
 
 
 Wenn nicht anders angegeben, erhalten wir die Daten von Ihnen (einschließlich über die von Ihnen verwendeten Geräte).
 
-7.  ## Datenübertragung in Drittländer
+## 7. Datenübertragung in Drittländer
 
 
 Es findet eine Datenübertragung in Drittländer außerhalb der Europäischen Union statt. Dies erfolgt auf der Grundlage gesetzlich vorgesehener vertraglicher Regelungen, die einen angemessenen Schutz Ihrer Daten sicherstellen sollen und die Sie auf Anfrage einsehen können.
 
-8.  ## Speicherdauer
+## 8. Speicherdauer
 
 
 Wir speichern Ihre Daten,
@@ -74,14 +73,14 @@ Wir speichern Ihre Daten,
 -   wenn wir die Daten auf der Grundlage eines berechtigten Interesses verwenden, höchstens solange, wie Ihr Interesse an einer Löschung oder Anonymisierung nicht überwiegt.
 
 
-9.  ## Dienste Dritter
+## 9. Dienste Dritter
 
 
 Für verschiedene Funktionen unsere Webseite verwenden wir die Dienste Dritter.
 
 Weiterhin können wir Ihre personenbezogenen Daten an Dritte weitergeben, wenn Aktionsteilnahmen, Gewinnspiele, Vertragsabschlüsse oder ähnliche Leistungen von uns gemeinsam mit Partnern angeboten werden. Nähere Informationen hierzu erhalten Sie bei Angabe Ihrer personenbezogenen Daten oder untenstehend in der Beschreibung des Angebotes.
 
-10.  ## Erhebung personenbezogener Daten bei Besuch unserer Website
+## 10. Erhebung personenbezogener Daten bei Besuch unserer Website
 
 
 Bei der bloß informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns – etwa durch Nutzung unserer Suchfunktion – anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten:
@@ -109,24 +108,24 @@ Für das Erheben der Fehlerprotokolle nutzen wir mehrere Drittanbieter. Bei der 
 -   [https://www.papertrail.io/uk/privacy-policy](https://www.papertrail.io/uk/privacy-policy)
 
 
-11.  ## Cookies
+## 11. Cookies
 
 
 Cookies sind kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, Ecosia insgesamt nutzerfreundlicher und effektiver zu machen.
 
 Ecosia setzt einen oder mehrer Cookies um die Einstellungen des Nutzers zu speichern, das Nutzungsverhalten zu analysieren und gegebenenfalls Web Analytics oder A/B-Testing durchzuführen.
 
-12.  ## Verwendungszwecke
+## 12. Verwendungszwecke
 
 
 Personenbezogene Daten werden von uns nur dann und nur in dem Umfang und zu dem Zweck erhoben, zu dem Sie uns die Daten von sich aus zur Verfügung stellen.
 
-1.  ### Server
+### a. Server
 
 
 Unsere Server werden von Amazon Web Services (AWS) betrieben. AWS greift auf keinerlei Daten, die bei der Servernutzung entstehen, zu. Weitere Details hierzu finden sich unter diesem Link: [https://aws.amazon.com/de/compliance/gdpr-center/](https://aws.amazon.com/de/compliance/gdpr-center/)
 
-2.  ### Suche
+### b. Suche
 
 
 Ecosia Suche ist eine durch Drittanbieter unterstützte Suche.
@@ -139,7 +138,7 @@ Wenn “Do Not Track” im Browser aktiviert ist, wird die Client ID automatisch
 
 Weitere Informationen zu Datenschutz bei Bing finden Sie hier [https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
 
-3.  ### Blog-Funktionen
+### c. Blog-Funktionen
 
 
 Wir bieten einen Blog an, in dem wir verschiedene Beiträge zu Themen rund um unsere Tätigkeiten veröffentlichen. Für das Betreiben des Blogs nutzen wir die Bloggingplattform “tumblr”. Näheres zum Datenschutz bei diesem Drittanbieter finden Sie hier: [https://www.tumblr.com/privacy](https://www.tumblr.com/privacy). Insbesondere speichert und verarbeitet tumblr folgende Daten:
@@ -150,7 +149,7 @@ Wir bieten einen Blog an, in dem wir verschiedene Beiträge zu Themen rund um un
 
 Tumblr ist Teil des Verizon Konzerns und diese Daten werden auch innerhalb des Konzerns geteilt, ebenso mit Dritten, die tumblr bei der Weiterentwicklung ihrer Produkte helfen.
 
-4.  ### Newsletter
+### d. Newsletter
 
 
 Für den Versand unseres Newsletters nutzen wir die Newsletterversandplattform “Mailchimp”. Wir selbst speichern oder verarbeiten in diesem Zusammenhang keine Daten. Hier ist der Link zu [Mailchimps Privacy Policy](https://mailchimp.com/legal/privacy/) und ein kurzer Überblick darüber, welche Daten insbesondere dort verarbeitet und gespeichert werden: [https://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/)
@@ -167,7 +166,7 @@ Mailchimp gibt Ihre Email-Adresse explizit nicht an Dritte weiter und nutzt sie 
 
 Wir weisen Sie zusätzlich auf die Widerspruchsmöglichkeiten in die Datenerhebung zu Werbezwecken auf den Webseiten [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) und [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/uk/your-ad-choices/) (für den Europäischen Raum) hin.
 
-5.  ### Umfragen
+### e. Umfragen
 
 
 Für die Durchführung unserer Umfragen nutzen wir die Plattform “Typeform”. Wir selbst speichern oder verarbeiten in diesem Zusammenhang nur die aggregierten Ergebnisse. Einzeldaten werden ausschließlich in Typeform erfasst. Hier ist der Link zu Typeforms Privacy Policy [https://admin.typeform.com/to/dwk6gt](https://admin.typeform.com/to/dwk6gt) und ein kurzer Überblick darüber, welche Daten insbesondere dort verarbeitet und gespeichert werden:
@@ -179,7 +178,7 @@ Für die Durchführung unserer Umfragen nutzen wir die Plattform “Typeform”.
 
 Typeform gibt Ihre Daten nicht ohne Ihr Einverständnis an Dritte weiter, es sei denn, dass sie gesetzlich dazu verpflichtet sind.
 
-6.  ### Bewerbungen
+### f. Bewerbungen
 
 
 Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform “Workable”. Wir selbst speichern oder verarbeiten in diesem Zusammenhang keine Daten. Näheres zum Datenschutz bei diesem Drittanbieter finden Sie hier: [https://www.workable.com/privacy](https://www.workable.com/privacy)
@@ -188,7 +187,7 @@ Während des Bewerbungsprozesses werden dort alle Daten gespeichert, die Sie fü
 
 Sie können Ihre Bewerbung jederzeit zurückziehen. Einen Link dafür finden Sie in der Bestätigungsemail. In jedem Fall werden Ihre Unterlagen spätestens einen Monat nach Ende des Bewerbungsprozess gelöscht.
 
-7.  ### Kontaktformular und Hilfe-Seiten
+### g. Kontaktformular und Hilfe-Seiten
 
 
 Für die Bearbeitung Eurer Anfragen nutzen wir die Plattform “Zendesk”. Wir selbst speichern oder verarbeiten in diesem Zusammenhang also gar keine Daten. Dies geschieht ausschließlich dort. Hier ist der Link zu ZenDesk's Datenschutzrichtlinie [https://www.zendesk.com/company/customers-partners/privacy-policy/](https://www.zendesk.com/company/customers-partners/privacy-policy/) und ein kurzer Überblick darüber, welche Daten dort insbesondere verarbeitet und gespeichert werden:
@@ -200,14 +199,14 @@ Für die Bearbeitung Eurer Anfragen nutzen wir die Plattform “Zendesk”. Wir 
 
 Wir vertrauen auf die Zuverlässigkeit von und die Datensicherheit bei Zendesk. Zendesk unter dem US-EU-Datenschutzabkommen „Privacy Shield“ zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)
 
-8.  ### Web Analytics
+### h. Web Analytics
 
 
 Wir nutzen einen von uns selbst betriebenen, sicheren und voll verschlüsselten Webanalysedienst, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter gestalten.
 
 Für diese Auswertung werden Cookies auf Ihrem Computer gespeichert. Wenn Sie an der Messung nicht teilnehmen möchten, können sie die Erhebung sämtlicher Nutzungsdaten mit dem Aktivieren der "Do Not Track" Einstellung in ihrem Browser deaktivieren.
 
-9.  ### A/B-Testing
+### i. A/B-Testing
 
 
 Wir führen weiterhin Analysen des Nutzerverhaltens über ein sog. A/B-Testing durch. Dabei können wir Ihnen unsere Websites mit leicht variierten Inhalten anzeigen, je nach einer erfolgten Profilzuordnung. So können wir unser Angebot analysieren, regelmäßig verbessern und für Sie als Nutzer interessanter gestalten.
@@ -216,7 +215,7 @@ Für diese Auswertung werden Cookies auf Ihrem Computer gespeichert. Die so erho
 
 Die Auswertung können Sie durch Löschung vorhandener Cookies und die Verhinderung der Speicherung von Cookies verhindern. Die Verhinderung der Speicherung von Cookies ist durch die Einstellung in ihrem Browser möglich.
 
-10.  ### Online-Werbung
+### j. Online-Werbung
 
 
 #### Werbung auf Ecosia
