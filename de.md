@@ -1,5 +1,5 @@
 
-Der Schutz Ihrer Privatsphäre ist für uns von höchster Bedeutung. Diese Datenschutzerklärung informiert darüber, wie und zu welchem Zweck wir personenbezogene Daten verarbeiten und klärt Sie über die Ihnen zustehenden Rechte auf. Uns ist uns bewusst, welche Bedeutung die Verarbeitung personenbezogener Daten für unsere Nutzer hat und halten wir alle deutschen und europäischen Bestimmungen zum Datenschutz ein.
+Der Schutz Ihrer Privatsphäre ist für uns von höchster Bedeutung. Diese Datenschutzerklärung informiert darüber, wie und zu welchem Zweck wir personenbezogene Daten verarbeiten und klärt Sie über die Ihnen zustehenden Rechte auf. Uns ist uns bewusst, welche Bedeutung die Verarbeitung personenbezogener Daten für unsere Nutzer hat und wir halten alle deutschen und europäischen Bestimmungen zum Datenschutz ein.
 
 ## 1. Kontakt & Datenschutzbeauftragter
 
@@ -10,7 +10,7 @@ Schinkestraße 9
 12047 Berlin Germany
 [info@ecosia.org](mailto:info@ecosia.org)
 
-Unseren Datenschutzbeauftragten erreichen Sie unter privacy@ecosia.org oder unserer Postadresse mit dem Zusatz „Datenschutz&quot;.
+Unseren Datenschutzbeauftragten erreichen Sie unter privacy@ecosia.org oder unserer Postadresse mit dem Zusatz „Datenschutz”.
 
 ## 2. Ihre Rechte
 
@@ -21,7 +21,7 @@ Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden perso
 - Recht auf Einschränkung der Verarbeitung
 - Recht auf Widerspruch gegen die Verarbeitung
 - Recht auf Datenübertragbarkeit
-- Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+- Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren
 
 ## 3. Verarbeitung durch externe Dienstleister
 
@@ -29,7 +29,7 @@ Teilweise bedienen wir uns zur Verarbeitung Ihrer Daten externer Dienstleister. 
 
 ## 4. Erhebung personenbezogener Daten bei Besuch unserer Website
 
-Bei der rein informatorischen Nutzung der Website, wenn Sie uns nicht – etwa durch Nutzung unserer Suchfunktion – anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Rechtsgrundlage für die vorübergehende Speicherung der Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+Bei der rein informatorischen Nutzung der Website, wenn Sie uns nicht – etwa durch Nutzung unserer Suchfunktion – anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Rechtsgrundlage für die vorübergehende Speicherung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 - IP-Adresse
 - Datum und Uhrzeit der Anfrage
@@ -40,7 +40,7 @@ Bei der rein informatorischen Nutzung der Website, wenn Sie uns nicht – etwa d
 - Website, von der die Anforderung kommt
 - Browser
 - Betriebssystem und dessen Oberfläche
-- Sprache und Version der Browsersoftware.
+- Sprache und Version der Browsersoftware
 
 Die Daten werden in den Logfiles unseres Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens sieben Tagen der Fall.
 
@@ -54,7 +54,7 @@ Wir erheben anonyme Daten, um Fehler und Probleme bei Ecosia-Produkten und -Dien
 
 Cookies sind kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, Ecosia insgesamt nutzerfreundlicher und effektiver zu machen.
 
-Wir setzten einen oder mehrere persistente Cookies, um die Einstellungen des Nutzers zu speichern und unsere Website nutzerfreundlicher zu gestalten, das Nutzungsverhalten zu analysieren und gegebenenfalls Web Analytics (dazu s. unten) oder A/B-Testing (dazu s. unten) durchzuführen. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DS-GVO.
+Wir setzen einen oder mehrere persistente Cookies, um die Einstellungen des Nutzers zu speichern und unsere Website nutzerfreundlicher zu gestalten, das Nutzungsverhalten zu analysieren und gegebenenfalls Web Analytics (dazu s. unten) oder A/B-Testing (dazu s. unten) durchzuführen. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
 
@@ -66,22 +66,22 @@ Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren 
 
 Ecosia Suche ist eine durch Drittanbieter unterstützte Suche. Wenn eine Suche mit Ecosia durchgeführt wird, werden Daten an Bing übermittelt. Bing wird betrieben von: Microsoft Ireland Operations Ltd, Carmanhall Road, Sandyford Industrial Estate, Dublin 18, Ireland (im Folgenden: Bing). Dies geschieht, um Suchergebnisse anzuzeigen und betrügerische Aktivitäten zu unterbinden. Folgende Daten werden bei einer Suchanfrage an Bing übermittelt: IP-Adresse, User Agent String, Suchbegriff, Länder- und Spracheinstellungen, Filtereinstellungen für Erwachseneninhalte, Aktiven Suchfiltereinstellungen (z.B. Suchergebnisse nach Zeit filtern).
 
-Zusätzlich vergibt Ecosia eine „Bing Client ID&quot;, um die Qualität der Suchergebnisse zu verbessern. Dieser Wert ist eine nutzerspezifische ID, die es Bing ermöglicht, relevantere Suchergebnisse, auch basierend auf vorherigen Suchen, zu liefern. Die ID wird im Ecosia Cookiegespeichert und bei zukünftigen Sitzungen aufgerufen. Rechtsgrundlage für die Verarbeitung dieser Daten ist in beiden Fällen Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+Zusätzlich vergibt Ecosia eine „Bing Client ID”, um die Qualität der Suchergebnisse zu verbessern. Dieser Wert ist eine nutzerspezifische ID, die es Bing ermöglicht, relevantere Suchergebnisse, auch basierend auf vorherigen Suchen, zu liefern. Die ID wird im Ecosia Cookie gespeichert und bei zukünftigen Sitzungen aufgerufen. Rechtsgrundlage für die Verarbeitung dieser Daten ist in beiden Fällen Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
-Sie haben jedoch volle Kontrolle über die Nutzung dieser „Client ID". Wenn &quot;Do Not Track&quot; in Ihrem Browser aktiviert ist, wird die Client ID automatisch deaktiviert und weder gespeichert noch gesendet. Die Client ID und personalisierte Suchergebnisse können auch spezifisch in den Ecosia Such-Einstellungen abgeschalten werden.
+Sie haben jedoch volle Kontrolle über die Nutzung dieser „Client ID". Wenn „Do Not Track” in Ihrem Browser aktiviert ist, wird die Client ID automatisch deaktiviert und weder gespeichert noch gesendet. Die Client ID und personalisierte Suchergebnisse können auch spezifisch in den Ecosia Such-Einstellungen abgeschalten werden.
 
-Microsoft/Bing ist unter dem US-EU-Datenschutzabkommen „ [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)&quot; zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. Informationen zum Datenschutz bei Bing finden Sie hier: [https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
+Microsoft/Bing ist unter dem US-EU-Datenschutzabkommen „[Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)” zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. Informationen zum Datenschutz bei Bing finden Sie hier: [https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
 
 ### b. Blog-Funktionen
 
 Wir bieten einen Blog an, in dem wir verschiedene Beiträge zu Themen rund um unsere Tätigkeiten veröffentlichen, um unsere Website und deren Inhalte im Netz weiter zu verbreiten und unsere Besucherzahlen zu erhöhen.
 
-Für das Betreiben des Blogs nutzen wir die Bloggingplattform &quot;Tumblr&quot;. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO. Tumblr wird betrieben von der Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
+Für das Betreiben des Blogs nutzen wir die Bloggingplattform „Tumblr”. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Tumblr wird betrieben von der Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
 
 Insbesondere speichert und verarbeitet Tumblr folgende Daten:
 
 - Technische Informationen, die zur Darstellung wichtig sind, z.B. Browser oder Geräteart
-- IP Adressen, Cookies oder Webtags für statistische Erhebungen sowie Verhinderung von Missbrauch.
+- IP Adressen, Cookies oder Webtags für statistische Erhebungen sowie Verhinderung von Missbrauch
 
 Tumblr erhält über seine Cookies auch die Information, dass Sie unsere Internetseite besucht haben, wenn Sie zum Zeitpunkt des Aufrufs der Ecosia-Seite gleichzeitig bei Tumblr eingeloggt sind, unabhängig davon, ob Sie die Tumblr-Funktion nutzen oder nicht. Wenn Sie das nicht wünschen, müssen Sie sich vor dem Besuch der Ecosia Seite aus Ihrem Tumblr-Account ausloggen.
 
@@ -89,18 +89,18 @@ Näheres zum Datenschutz bei diesem Drittanbieter finden Sie hier: [https://www.
 
 ### c. Newsletter
 
-Sie können unseren Newsletter abonnieren, mit dem wir Sie über unsere aktuellen interessanten Angebote informieren. Die beworbenen Waren und Dienstleistungen sind in der Einwilligungserklärung benannt. Für den Versand unseres Newsletters nutzen wir die Newsletterversandplattform &quot;Mailchimp&quot;. Mailchimp wird betrieben von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
+Sie können unseren Newsletter abonnieren, mit dem wir Sie über unsere aktuellen interessanten Angebote informieren. Die beworbenen Waren und Dienstleistungen sind in der Einwilligungserklärung benannt. Für den Versand unseres Newsletters nutzen wir die Newsletterversandplattform „Mailchimp”. Mailchimp wird betrieben von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
 
 Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass Sie nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse erhalten, in welcher Sie um Bestätigung gebeten werden, dass Sie den Versand des Newsletters wünschen. Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, werden Ihre Informationen gesperrt und nach einem Monat automatisch gelöscht. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können.
 
 Gespeichert werden:
 
-- Die Email-Adresse, an die Sie den Newsletter geschickt haben möchten.
-- Der Zeitpunkt und die IP Adresse Ihrer Anmeldung, um ggf. den Missbrauch der Email-Adresse eines Betroffenen zu einem späteren Zeitpunkt nachvollziehen zu können.
+- Die E-Mail-Adresse, an die Sie den Newsletter geschickt haben möchten
+- Der Zeitpunkt und die IP Adresse Ihrer Anmeldung, um ggf. den Missbrauch der E-Mail-Adresse eines Betroffenen zu einem späteren Zeitpunkt nachvollziehen zu können
 - Technische Informationen, die zur Darstellung wichtig sind (z.B. Browser), sowie Daten zur Verbesserung des Services (z.B. Zugriffszeit)
 - Daten für statistische Erhebungen, wie das Öffnen des Newsletters und Ihr Klickverhalten auf Links im Newsletter
 
-Wir geben Ihre Email-Adresse explizit nicht an Dritte weiter. MailChimp ist unter dem US-EU-Datenschutzabkommen „ [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)&quot; zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten.
+Wir geben Ihre E-Mail-Adresse explizit nicht an Dritte weiter. MailChimp ist unter dem US-EU-Datenschutzabkommen „[Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)” zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten.
 
 Ihre E-Mail-Adresse wird solange gespeichert, wie das Abonnement des Newsletters aktiv ist. Die sonstigen im Rahmen Ihrer Anmeldung erhobenen Daten werden in der Regel nach einer Frist von 7 Tagen gelöscht.
 
@@ -110,47 +110,47 @@ Wir weisen Sie zusätzlich auf die Widerspruchsmöglichkeiten in die Datenerhebu
 
 ### d. Umfragen
 
-Für die Durchführung unserer Umfragen nutzen wir die Plattform &quot;Typeform&quot;. Umfragen dienen uns dazu, unsere Angebote noch besser auf Ihre Bedürfnisse anzupassen. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO. Typeform wird betrieben von TYPEFORM S.L. Carrer Bac de Roda, 163, 08018 Barcelona, Spanien. Wenn Sie an einer Umfrage teilnehmen, werden folgende Daten verarbeitet:
+Für die Durchführung unserer Umfragen nutzen wir die Plattform „Typeform”. Umfragen dienen uns dazu, unsere Angebote noch besser auf Ihre Bedürfnisse anzupassen. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Typeform wird betrieben von TYPEFORM S.L. Carrer Bac de Roda, 163, 08018 Barcelona, Spanien. Wenn Sie an einer Umfrage teilnehmen, werden folgende Daten verarbeitet:
 
-- Ihre Antworten;
-- Daten zu Ihrem Gerät, wie z.B. ob es ein Smartphone ist oder ein Desktopcomputer und welchen Browser Sie benutzen, um die Seiten angepasst darstellen zu können;
-- Ihre IP Adresse;
-- Ggf. Ihre Email-Adresse, wenn Sie diese zum Zwecke der Teilnahme an der Umfrage mitgeteilt haben
-- Gleichzeitig nutzen wir Cookies für statistische Erhebungen und zur Vermeidung von Mißbrauch.
+- Ihre Antworten
+- Daten zu Ihrem Gerät, wie z.B. ob es ein Smartphone ist oder ein Desktopcomputer und welchen Browser Sie benutzen, um die Seiten angepasst darstellen zu können
+- Ihre IP Adresse
+- Ggf. Ihre E-Mail-Adresse, wenn Sie diese zum Zwecke der Teilnahme an der Umfrage mitgeteilt haben
+- Gleichzeitig nutzen wir Cookies für statistische Erhebungen und zur Vermeidung von Mißbrauch
 
 Diese Daten werden so lange gespeichert, wie dies zur Auswertung der Umfrage erforderlich ist, in der Regel bis zu zwei Jahren. Danach werden sie gelöscht oder anonymisiert. Eine Weitergabe an Dritte der im Zusammenhang mit Umfragen erhobenen Daten erfolgt nicht.
 
 ### e. Bewerbungen
 
-Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform &quot;Workable&quot;. Workable wird betrieben von Workable Software Limited, 21a Kingly Street, 2nd Floor, London, UK.
+Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform „Workable”. Workable wird betrieben von Workable Software Limited, 21a Kingly Street, 2nd Floor, London, UK.
 
-Während des Bewerbungsprozesses werden alle Daten gespeichert, die Sie für Ihre Bewerbung bereitgestellt haben (Name, Email-Adresse, Telefonnummer, Foto, Lebenslauf, Anschreiben etc.) ebenso wie die damit im Zusammenhang stehende Kommunikation zwischen Ihnen und Ecosia.
+Während des Bewerbungsprozesses werden alle Daten gespeichert, die Sie für Ihre Bewerbung bereitgestellt haben (Name, E-Mail-Adresse, Telefonnummer, Foto, Lebenslauf, Anschreiben etc.) ebenso wie die damit im Zusammenhang stehende Kommunikation zwischen Ihnen und Ecosia.
 
-Nach Übermittlung Ihrer Bewerbung über die Eingabemaske erhalten Sie eine Bestätigungsemail an die von Ihnen angegebenen Email-Adresse, in der Sie um Bestätigung Ihrer Bewerbung gebeten werden (double-opt-in-Verfahren). Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, werden Ihre Informationen gesperrt und nach einem Monat automatisch gelöscht. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können.
+Nach Übermittlung Ihrer Bewerbung über die Eingabemaske erhalten Sie eine Bestätigungsemail an die von Ihnen angegebenen E-Mail-Adresse, in der Sie um Bestätigung Ihrer Bewerbung gebeten werden (double-opt-in-Verfahren). Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, werden Ihre Informationen gesperrt und nach einem Monat automatisch gelöscht. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können.
 
-Rechtsgrundlage für die Verarbeitung der Daten nach Bestätigung Ihrer Bewerbung ist Art. 6 Abs. 1 lit. a DSGVO. Sie können Ihre Bewerbung jederzeit zurückziehen. Einen Link dafür finden Sie in der Bestätigungsemail. In diesem Fall werden Ihre Daten gesperrt und nach einem Monat automatisch gelöscht.
+Rechtsgrundlage für die Verarbeitung der Daten nach Bestätigung Ihrer Bewerbung ist Art. 6 Abs. 1 lit. a DS-GVO. Sie können Ihre Bewerbung jederzeit zurückziehen. Einen Link dafür finden Sie in der Bestätigungsemail. In diesem Fall werden Ihre Daten gesperrt und nach einem Monat automatisch gelöscht.
 
 In jedem Fall werden Ihre Unterlagen spätestens einen Monat nach Ende des Bewerbungsprozesses gelöscht.
 
 ### f. Kontaktformular und Hilfe-Seiten
 
-Für die Bearbeitung Ihrer Anfragen nutzen wir die Plattform &quot;Zendesk&quot;. Bei einer Anfrage werden die von Ihnen mitgeteilten Daten gespeichert und verarbeitet, um Ihre Fragen zu beantworten. Gleichzeitig erheben wir über Cookies bestimmte statistische Informationen zur Verbesserung der Kontakt- und Anfragefunktion und nutzen Ihre Daten, um einem möglichen Missbrauch dieser Funktion vorzubeugen. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die in diesem Zusammenhang anfallenden Daten werden gelöscht, nachdem die Speicherung nicht mehr erforderlich ist, oder eingeschränkt, falls gesetzliche Aufbewahrungspflichten bestehen.
+Für die Bearbeitung Ihrer Anfragen nutzen wir die Plattform „Zendesk”. Bei einer Anfrage werden die von Ihnen mitgeteilten Daten gespeichert und verarbeitet, um Ihre Fragen zu beantworten. Gleichzeitig erheben wir über Cookies bestimmte statistische Informationen zur Verbesserung der Kontakt- und Anfragefunktion und nutzen Ihre Daten, um einem möglichen Missbrauch dieser Funktion vorzubeugen. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die in diesem Zusammenhang anfallenden Daten werden gelöscht, nachdem die Speicherung nicht mehr erforderlich ist, oder eingeschränkt, falls gesetzliche Aufbewahrungspflichten bestehen.
 
 Folgende Daten von Ihnen werden gespeichert:
 
-- Die Email-Adresse, an die wir die Antwort auf Deine Frage schicken sollen.
+- Die E-Mail-Adresse, an die wir die Antwort auf Deine Frage schicken sollen
 - Die Frage selbst sowie die dazugehörige Korrespondenz und die Zeitpunkte der verschickten und empfangenen Nachrichten
 - Technische Informationen, bez. Browser oder Betriebssystem sowie zur Art des verwendeten Geräts, um für die richtige Darstellung von Informationen zu sorgen
 - Ihre IP-Adresse
-- Gleichzeitig nutzen wir Cookies für statistische Erhebungen und zur Vermeidung von Missbrauch.
+- Gleichzeitig nutzen wir Cookies für statistische Erhebungen und zur Vermeidung von Missbrauch
 
 Die Verarbeitung Ihrer personenbezogenen Daten für die Nutzung unserer Anfragen- und Kontaktfunktion erfolgt aufgrund Ihrer Einwilligung.
 
-Der Betreiber von Zendesk hat seinen Sitz in den USA, wohin auch Ihre Daten bei Nutzung unserer Anfragen- und Kontaktfunktion transferiert werden. Zendesk ist unter dem US-EU-Datenschutzabkommen _„_Privacy Shield_&quot;_ zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)
+Der Betreiber von Zendesk hat seinen Sitz in den USA, wohin auch Ihre Daten bei Nutzung unserer Anfragen- und Kontaktfunktion transferiert werden. Zendesk ist unter dem US-EU-Datenschutzabkommen _„_Privacy Shield_”_ zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)
 
 ### g. Web Analytics
 
-Wir nutzen einen von uns selbst betriebenen, sicheren und voll verschlüsselten Webanalysedienst, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+Wir nutzen einen von uns selbst betriebenen, sicheren und voll verschlüsselten Webanalysedienst, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 Für diese Auswertung werden Cookies (s.o.) auf Ihrem Computer gespeichert und folgende Daten verarbeitet:
 
@@ -163,19 +163,19 @@ Für diese Auswertung werden Cookies (s.o.) auf Ihrem Computer gespeichert und f
 - Die Häufigkeit des Aufrufs der Website
 - Ihr Klickverhalten auf der Website
 
-Diese Daten werden nach kurzer Zeit, in der Regelnach 7 Tagen anonymisiert. Die anonymisierten werden so lange gespeichert, wie dies zur Auswertung erforderlich ist. Eine Weitergabe an Dritte erfolgt nicht.
+Diese Daten werden nach kurzer Zeit, in der Regel nach 7 Tagen anonymisiert. Die anonymisierten werden so lange gespeichert, wie dies zur Auswertung erforderlich ist. Eine Weitergabe an Dritte erfolgt nicht.
 
-Wenn Sie an der Messung nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten mit dem Aktivieren der &quot;Do Not Track&quot; Einstellung in ihrem Browser deaktivieren.
+Wenn Sie an der Messung nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten mit dem Aktivieren der „Do Not Track” Einstellung in ihrem Browser deaktivieren.
 
 ### h. A/B-Testing
 
-Wir führen weiterhin Analysen des Nutzerverhaltens über ein sog. A/B-Testing durch. Dabei können wir Ihnen unsere Websites mit leicht variierten Inhalten anzeigen, je nach einer erfolgten Profilzuordnung. So können wir unser Angebot analysieren, regelmäßig verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+Wir führen weiterhin Analysen des Nutzerverhaltens über ein sog. A/B-Testing durch. Dabei können wir Ihnen unsere Websites mit leicht variierten Inhalten anzeigen, je nach einer erfolgten Profilzuordnung. So können wir unser Angebot analysieren, regelmäßig verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 Für die Zuordnung zu einer Testgruppe werden Cookies (s.o.) auf Ihrem Computer gespeichert. Die Zuordnung zu den Testgruppen erfolgt immer nach dem Zufallsprinzip. Für die Auswertung verwenden wir die durch unseren Webanalysedienst erhobenen Daten (siehe oben). Die so erhobenen Informationen speichern wir ausschließlich auf unserem Server in Deutschland.
 
 Vor Durchführung der Analysen werden die IP-Adressen gekürzt weiterverarbeitet, eine direkte Personenbeziehbarkeit kann damit ausgeschlossen werden. Die von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen von uns erhobenen Daten zusammengeführt.
 
-Wenn Sie an den Tests nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten und das Speichern der diesbezüglichen Cookies mit dem Aktivieren der &quot;Do Not Track&quot; Einstellung in Ihrem Browser deaktivieren.
+Wenn Sie an den Tests nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten und das Speichern der diesbezüglichen Cookies mit dem Aktivieren der „Do Not Track” Einstellung in Ihrem Browser deaktivieren.
 
 ### i. Online-Werbung
 
@@ -185,11 +185,11 @@ Bei Ecosia werden Werbeanzeigen neben oder über den Suchergebnissen eingeblende
 
 Wir arbeiten mit dem Bing Ad Netzwerk zusammen. Bei der Suche und der reinen Darstellung einer Anzeige werden keinerlei Daten an dieses Anzeigennetzwerk weitergegeben (nur an Bing, s.o.). Erst bei einem Klick auf eine Anzeige werden unter Anderem folgende Daten an das Anzeigennetzwerk gesendet: der Suchbegriff, Ihre IP Adresse, Ort, Datum und Uhrzeit der Suchabfrage und die Browser-Konfiguration.
 
-Zusätzlich vergibt Ecosia eine Bing &quot;Client ID&quot;, um die Qualität der Anzeigen zu verbessern. Dieser Wert ist eine nutzerspezifische ID, die im Ecosia Cookiegespeichert und bei zukünftigen Sitzungen aufgerufen wird.
+Zusätzlich vergibt Ecosia eine Bing „Client ID”, um die Qualität der Anzeigen zu verbessern. Dieser Wert ist eine nutzerspezifische ID, die im Ecosia Cookie gespeichert und bei zukünftigen Sitzungen aufgerufen wird.
 
 Dadurch wird es Bing ermöglicht, Ihnen relevantere Anzeigen von Bing oder von Drittanbietern aus dem Bing Ad Netzwerk, auch basierend auf vorherigen Suchen, anzuzeigen. Rechtsgrundlage für die genannte Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
-Wenn „Do Not Track&quot; in Ihrem Browser aktiviert ist, wird die Client ID automatisch deaktiviert und nicht gespeichert oder gesendet. Die Client ID und personalisierte Anzeigen können auch spezifisch in den Ecosia Such-Einstellungen abgeschaltet werden.
+Wenn „Do Not Track” in Ihrem Browser aktiviert ist, wird die Client ID automatisch deaktiviert und nicht gespeichert oder gesendet. Die Client ID und personalisierte Anzeigen können auch spezifisch in den Ecosia Such-Einstellungen abgeschaltet werden.
 
 Weitere Details zur Datenverarbeitung des Bing Ad Netzwerks finden Sie hier: [https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
 
@@ -207,9 +207,9 @@ Rechtsgrundlage für diese Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. 
 
 Sie können die Teilnahme an diesem Tracking-Verfahren auf verschiedene Weise verhindern:
 
-- Sie können Ihre Browser-Einstellungen entsprechend Ihren Wünschen konfigurieren und die Annahme von Third-Party-Cookies oder von Cookies allgemein deaktivieren.
-- Durch Deaktivierung der interessenbezogenen Anzeigen der Anbieter, die Teil der Selbstregulierungs-Kampagne „About Ads&quot; sind, über den Link [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
-- Durch die Deaktivierung der Funktion „Facebook Custom Audiences&quot; für eingeloggte Nutzer unter [https://www.facebook.com/settings/?tab=ads#\_](https://www.facebook.com/settings/?tab=ads#_)
+- Sie können Ihre Browser-Einstellungen entsprechend Ihren Wünschen konfigurieren und die Annahme von Third-Party-Cookies oder von Cookies allgemein deaktivieren
+- Durch Deaktivierung der interessenbezogenen Anzeigen der Anbieter, die Teil der Selbstregulierungs-Kampagne „About Ads” sind, über den Link [http://www.aboutads.info/choices](http://www.aboutads.info/choices)
+- Durch die Deaktivierung der Funktion „Facebook Custom Audiences” für eingeloggte Nutzer unter [https://www.facebook.com/settings/?tab=ads#\_](https://www.facebook.com/settings/?tab=ads#_)
 
 Weitere Informationen zum Datenschutz bei Drittanbietern, die wir zur Erfolgskontrolle unserer Werbemaßnahmen einsetzen, finden Sie hier:
 
@@ -223,11 +223,11 @@ Wir binden externe Tracking Skripte und Pixel niemals auf Ecosia-Suchseiten ein.
 
 Falls Sie eine Einwilligung zur Verarbeitung Ihrer Daten erteilt haben, können Sie diese jederzeit widerrufen. Ein solcher Widerruf beeinflusst die Zulässigkeit der Verarbeitung Ihrer personenbezogenen Daten, nachdem Sie ihn gegenüber uns ausgesprochen haben.
 
-Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf eine Interessenabwägung gem. Art. 6 Abs. 1 lit. f DSGVO stützen, können Sie aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung der Sie betreffenden Daten widersprechen. Im Falle Ihres Widerspruchs prüfen wir die Sachlage und werden die Datenverarbeitung einstellen bzw. anpassen, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihren Interessen, Rechten und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf eine Interessenabwägung gem. Art. 6 Abs. 1 lit. f DS-GVO stützen, können Sie aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung der Sie betreffenden Daten widersprechen. Im Falle Ihres Widerspruchs prüfen wir die Sachlage und werden die Datenverarbeitung einstellen bzw. anpassen, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihren Interessen, Rechten und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 Selbstverständlich können Sie der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung jederzeit widersprechen. Hierfür bedarf es keiner Begründung. Dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
 
-Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren Datenschutzbeauftragten unter privacy@ecosia.org wenden.
+Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren Datenschutzbeauftragten unter <privacy@ecosia.org> wenden.
 
 --
 
