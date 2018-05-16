@@ -1,0 +1,19 @@
+{
+  "name": "ecosia-privacy-policy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "de.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecosia/ecosia-privacy-policy.git"
+  },
+  "author": "Ecosia Devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecosia/ecosia-privacy-policy/issues"
+  },
+  "homepage": "https://github.com/ecosia/ecosia-privacy-policy#readme"
+}
