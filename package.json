@@ -1,0 +1,15 @@
+{
+  "name": "ecosia-privacy-policy",
+  "version": "1.0.0",
+  "description": "Ecosia's Privacy Policy in multiple languages using markdown",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecosia/ecosia-privacy-policy.git"
+  },
+  "author": "Ecosia Devs",
+  "license": "CC BY-NC-ND 4.0",
+  "bugs": {
+    "url": "https://github.com/ecosia/ecosia-privacy-policy/issues"
+  },
+  "homepage": "https://github.com/ecosia/ecosia-privacy-policy#readme"
+}
