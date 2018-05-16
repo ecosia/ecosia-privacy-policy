@@ -2,7 +2,6 @@
   "name": "ecosia-privacy-policy",
   "version": "1.0.0",
   "description": "Ecosia's Privacy Policy in multiple languages using markdown",
-  "main": "de.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,7 @@
     "url": "git+https://github.com/ecosia/ecosia-privacy-policy.git"
   },
   "author": "Ecosia Devs",
-  "license": "ISC",
+  "license": "CC BY-NC-ND 4.0",
   "bugs": {
     "url": "https://github.com/ecosia/ecosia-privacy-policy/issues"
   },
