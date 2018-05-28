@@ -39,7 +39,7 @@ In the case of use of the website for purely informational purposes, if you do n
  - Operating system and its surface
  - Language and version of the browser software.
 
-The data are saved in the logfiles of our system. These data can never be connected to other personal data of our users. The data are deleted once they are no longer required to achieve the purpose of your gathering. In the event that the data are saved in log files, this occurs at the most seven days later. 
+The data are saved in the logfiles of our system. This data can never be connected to other personal data of our users. The data are deleted once they are no longer required to achieve the purpose of your gathering. In the event that the data are saved in log files, this occurs at the most seven days later. 
 
 It is possible to save the data for longer than this. In this case, the users’ IP addresses are deleted or anonymised so that they can no longer be associated with the visiting client.
 
