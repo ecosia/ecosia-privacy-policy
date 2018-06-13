@@ -76,7 +76,7 @@ Microsoft/Bing est certifiée en vertu du bouclier de protection UE-États-Unis 
 
 Nous proposons un blog dans lequel nous publions diverses contributions aux sujets concernant nos activités afin d'élargir la diffusion de notre site Internet et de ses contenus dans le réseau et augmenter notre nombre de visiteurs.
 
-Nous utilisons la plateforme de blogging « Tumblr » pour gérer le blog. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Tumblr est gérée par Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
+Nous utilisons la plateforme de blogging « Ghost » pour gérer le blog. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Tumblr est gérée par Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
 
 Tumblr stocke et traite notamment les données suivantes :
 
