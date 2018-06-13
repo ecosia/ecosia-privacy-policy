@@ -76,16 +76,9 @@ Microsoft/Bing ist unter dem US-EU-Datenschutzabkommen „[Privacy Shield](https
 
 Wir bieten einen Blog an, in dem wir verschiedene Beiträge zu Themen rund um unsere Tätigkeiten veröffentlichen, um unsere Website und deren Inhalte im Netz weiter zu verbreiten und unsere Besucherzahlen zu erhöhen.
 
-Für das Betreiben des Blogs nutzen wir die Bloggingplattform „Tumblr”. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Tumblr wird betrieben von der Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
+Für das Betreiben des Blogs nutzen wir die Bloggingplattform „Ghost”. Wenn Sie unseren Blog besuchen hat Ghost Zugriff auf Ihre IP Addresse um diesen Service bereit zu stellenm. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Ghost wird betrieben von der Ghost Foundation, 24 Raffles Place, #10-05 Clifford Centre, 048621 Singapore. Näheres zum Datenschutz bei diesem Drittanbieter finden Sie hier: [https://ghost.org/privacy/](https://ghost.org/privacy/).
 
-Insbesondere speichert und verarbeitet Tumblr folgende Daten:
-
-- Technische Informationen, die zur Darstellung wichtig sind, z.B. Browser oder Geräteart
-- IP Adressen, Cookies oder Webtags für statistische Erhebungen sowie Verhinderung von Missbrauch
-
-Tumblr erhält über seine Cookies auch die Information, dass Sie unsere Internetseite besucht haben, wenn Sie zum Zeitpunkt des Aufrufs der Ecosia-Seite gleichzeitig bei Tumblr eingeloggt sind, unabhängig davon, ob Sie die Tumblr-Funktion nutzen oder nicht. Wenn Sie das nicht wünschen, müssen Sie sich vor dem Besuch der Ecosia Seite aus Ihrem Tumblr-Account ausloggen.
-
-Näheres zum Datenschutz bei diesem Drittanbieter finden Sie hier: [https://www.tumblr.com/privacy](https://www.tumblr.com/privacy).
+Wenn Sie unseren Blog Besuchen erheben und speichern wir, wie unter g. Web Analytics beschrieben, persönliche Daten und Daten zum Nutzungsverhalten um unseren Dienst kontinuierlich zu verbessern. Rechtsgrundlage für die Verarbeitung dieser Daten ist in beiden Fällen Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
 ### c. Newsletter
 
