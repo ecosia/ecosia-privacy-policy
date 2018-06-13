@@ -72,7 +72,7 @@ Microsoft/Bing is certified under the “Privacy Shield” US-EU data protection
 
 We provide a blog in which we publish various posts on topics about our activities in order to circulate our website and its contents on the internet and to increase our visitor numbers. 
 
-We use the “Ghost” blogging platform to operate the blog. Ghost does not have access to any of your personal information. For information on data protection with this third-party supplier, go to: https://ghost.org/privacy/.
+We use the “Ghost” blogging platform to operate the blog. Ghost does have access to your IP Address when you are using our Blog functions in order to provide the service. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation. Ghost is operated by Ghost Foundation, 24 Raffles Place, #10-05 Clifford Centre, 048621 Singapore. For information on data protection with this third-party supplier, go to: https://ghost.org/privacy/.
 
 When you are using our blog functions we collect and store personal information and usage data in order to improve the service as described under g. Web Analytics. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
