@@ -72,15 +72,9 @@ Microsoft/Bing is certified under the “Privacy Shield” US-EU data protection
 
 We provide a blog in which we publish various posts on topics about our activities in order to circulate our website and its contents on the internet and to increase our visitor numbers. 
 
-We use the “Tumblr” blogging platform to operate the blog. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation. Tumblr is operated by Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
+We use the “Ghost” blogging platform to operate the blog. Ghost does not have access to any of your personal information. For information on data protection with this third-party supplier, go to: https://ghost.org/privacy/.
 
-In particular, Tumblr saves and processes the following data:
- - Technical information which is important for the presentation such as browser or device type 
-   IP addresses, cookies or web tags gathered for statistical purposes and to prevent misuse.
-
-Tumblr is also informed through its cookies that you visited our website, if you are logged onto Tumblr at the same time as you visit the Ecosia website, irrespective of whether or not you use the Tumblr function. If you do not want this, you must log out of your Tumblr account before visiting the Ecosia website.
-
-For information on data protection with this third-party supplier, go to: https://www.tumblr.com/privacy.
+When you are using our blog functions we collect and store personal information and usage data in order to improve the service as described under g. Web Analytics. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
 ### c. Newsletter
 
