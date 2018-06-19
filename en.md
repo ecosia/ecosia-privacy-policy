@@ -76,6 +76,8 @@ We use the “Ghost” blogging platform to operate the blog. Ghost does have ac
 
 When you are using our blog functions we collect and store personal information and usage data in order to improve the service as described under g. Web Analytics. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
+Blog posts may contain third-party embeds, which may in some cases collect and store personal data. These “embeds” are hosted by a third-party and embedded in our Blog. For example: YouTube or Vimeo videos, Imgur or Giphy gifs, Facebook or Instagram posts or feeds or Twitter tweets that appear within a Blog post. These files send data to the hosted site just as if you were visiting that site directly. For example, when you load a Blog post page with a YouTube video embedded in it, YouTube receives data about your activity. Ecosia does not control what data third parties collect in cases like this, or what they will do with it. The use of personal data by embedded content providers is not covered by this statement, but by the privacy policies of those sites or services.
+
 ### c. Newsletter
 
 You can subscribe to our newsletter through which we inform you of our latest interesting offerings. The goods and services advertised are specified in the declaration of consent. We use the “Mailchimp” newsletter delivery platform to send our newsletter. Mailchimp is operated by The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
