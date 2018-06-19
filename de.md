@@ -80,6 +80,8 @@ Für das Betreiben des Blogs nutzen wir die Bloggingplattform „Ghost”. Wenn 
 
 Wenn Sie unseren Blog Besuchen erheben und speichern wir, wie unter g. Web Analytics beschrieben, persönliche Daten und Daten zum Nutzungsverhalten um unseren Dienst kontinuierlich zu verbessern. Rechtsgrundlage für die Verarbeitung dieser Daten ist in beiden Fällen Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
+In unsere Blog-Einträge können Inhalte von Drittanbietern eingebunden sein, welche in einigen Fällen persönliche Daten sammeln und speichern. Diese "Einbettungen" werden nicht von Ecosia oder Ghost sondern von einem Drittanbieter bereitgestellt und in unsere Blog-Einträge eingebunden. Hierbei handelt es sich zum Beispiel um YouTube Videos, Facebook oder Instagram Beiträge und Feeds oder Twitter Beiträge. Durch diese Einbettungen kann der Drittanbieter im gleichen Ausmaß auf Ihre Daten zugreifen, als bei einem direkten Besuch der Seite des Drittanbieters. Wenn Sie zum Beispiel einen Blog-Eintrag mit einem eingebetteten YouTube Video aufrufen, hat YouTube Zugriff auf Ihre IP-Addresse und andere Daten. In solchen Fällen hat Ecosia keine Kontrolle darüber welche Daten gesammelt und gespeichert werden oder was mit diesen Daten geschieht. Die Nutzung von personenbezogenen Daten durch eingebundene Inhalte Dritter wird somit nicht durch diese Datenschutzerklärung, sondern durch die Datenschutzerklärungen des entsprechenden Drittanbieters, abgedeckt.
+
 ### c. Newsletter
 
 Sie können unseren Newsletter abonnieren, mit dem wir Sie über unsere aktuellen interessanten Angebote informieren. Die beworbenen Waren und Dienstleistungen sind in der Einwilligungserklärung benannt. Für den Versand unseres Newsletters nutzen wir die Newsletterversandplattform „Mailchimp”. Mailchimp wird betrieben von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
@@ -224,4 +226,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 08.05.2018_
+_Stand der Datenschutzerklärung: 19.06.2018_
