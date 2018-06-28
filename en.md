@@ -222,4 +222,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 19/06/2018*
+*Data protection declaration version date: 28/06/2018*
