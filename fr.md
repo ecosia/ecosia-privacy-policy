@@ -60,7 +60,11 @@ Les cookies persistants sont automatiquement supprimés après une durée préd�
 
 Vous pouvez configurer vos paramètres de navigateur conformément à vos souhaits et refuser les cookies de tiers ou tous les cookies, par exemple. Les cookies déjà stockés peuvent à tout moment être supprimés. Cela peut également se faire automatiquement. Nous attirons votre attention sur le fait que, si vous désactivez des cookies pour notre site Internet, il est possible que vous ne puissiez plus utiliser pleinement toutes les fonctions de ce site Internet.
 
-## 6. Formes d'utilisation particulières du site Internet Ecosia
+## 6. Mobile Apps
+
+To be translated
+
+## 7. Formes d'utilisation particulières du site Internet Ecosia
 
 ### a. Recherche
 
@@ -231,4 +235,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 08/05/2018_
+_Date de la déclaration sur la protection des données : 03/07/2018_
