@@ -60,7 +60,27 @@ Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht
 
 Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und z. B. die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Wir weisen Sie darauf hin, dass Sie eventuell nicht alle Funktionen dieser Website mehr vollumfänglich nutzen können, wenn Sie Cookies für unsere Website deaktivieren.
 
-## 6. Besondere Nutzungsformen der Ecosia Website
+## 6. Mobile apps
+
+Die Ecosia-App ist ein anderer Zugang zur Ecosia-Plattform. Wir verwenden daher Ihre Daten dort so, als wenn Sie über unsere Webseite auf Ecosia zugreifen würden. Das gilt z.B. für die Verwendung Deiner Daten und das setzten von Cookies, zu den gleichen Zwecken und auf Basis der gleichen Rechtsgrundlagen. Die Ausführungen in dieser Datenschutzerklärung gelten insoweit entsprechend.
+
+### a. Zusätzliche Verwendung von App-spezifischen Daten
+
+
+
+### b. Dienste Dritter
+
+
+
+### c. Conversion Tracking
+
+
+
+### d. Push-Nachrichten
+
+
+
+## 7. Besondere Nutzungsformen der Ecosia Website
 
 ### a. Suche
 
@@ -231,4 +251,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 08.05.2018_
+_Stand der Datenschutzerklärung: 03.07.2018_
