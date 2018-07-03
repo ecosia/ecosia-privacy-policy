@@ -82,19 +82,19 @@ In particular, HockeyApp saves and processes the following data:
 
 HockeyApp is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at HockeyApp, go to: https://hockeyapp.net/imprint/
 
-### b. Conversion tracking
+### c. Conversion tracking
 
 We use several offerings of third-party providers to advertise our app on external websites and services. We have integrated third-party providers in our app which form a direct connection with the provider's server to report a succesfull conversion. In relation to the data of the advertising campaigns, we can determine how successful the individual advertising measures are. By doing so, we can achieve a fair calculation of advertising costs. The legal basis for this processing of your data is Art. 6 Para. 1 lit. f of the General Data Protection Regulation.
 
 We use the following conversion tracking services in the app:
 
-- Facebook: https://www.facebook.com/about/privacy. Facebook has undertaken to uphold the EU-US Privacy Shield. We 
+- Facebook: https://www.facebook.com/about/privacy. Facebook has undertaken to uphold the EU-US Privacy Shield.
 
 We do not have any influence on the scope and the further use of the data which are gathered by the third-party provider. Therefore, we inform you in accordance with what we know: Due to their involvement, the third-party provider receives the information that you installed our app due to an advertising campaign run through the third-parties network.
 
 For further information on data protection in third-party suppliers which we commission to measure the success of our advertising measures, go to:
 
-### c. Push notifications
+### d. Push notifications
 
 If you have correspondingly configured your mobile end device and have activated push notifications in the Ecosia app, this will enable the Ecosia app to send push notifications to your device, for example in order to provide you with information about us, about our planting projects, news or new functionalities or to send you system notifications.
 
@@ -270,5 +270,5 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 03/07/2018*
+*Data protection declaration version date: 07/03/2018*
 
