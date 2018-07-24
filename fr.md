@@ -80,7 +80,13 @@ Nous utilisons la plateforme de blogging « Ghost » pour gérer le blog. Pour f
 
 Lorsque vous utilisez les fonctions de notre blog, nous recueillons et stockons vos données à caractère personnel et vos données d’utilisation pour améliorer le service comme indiqué au point g. Web Analytics. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel.
  
+#### Contenus intégrés
+
 Les publications de notre blog intègrent parfois des contenus tiers qui peuvent être amenés à recueillir et à stocker les données à caractère personnel lorsque vous les consultez. Ces « contenus intégrés » sont hébergés par un tiers et insérés dans notre blog. Il peut s’agir par exemple de vidéos Youtube, de publications et de fils d’actualités Facebook et Instagram ou de tweets qui apparaissent dans un article de blog. Ces fichiers transmettent des données au site d’hébergement comme si vous aviez directement consulté celui-ci. Par exemple, lorsque vous chargez la page d’un article de blog qui contient une vidéo Youtube, des données en lien avec votre activité sont transmises à Youtube. Dans ce cas de figure, Ecosia n’a de contrôle ni sur la nature des données recueillies par ces tiers ni sur l’utilisation qui en est faite. L’utilisation des données à caractère personnel par des fournisseurs de contenus intégrés n’est pas couverte par la présente déclaration, mais par les politiques de confidentialité de ces sites ou services tiers. 
+
+#### Commentaires
+
+to be translated
 
 ### c. Newsletter
 
