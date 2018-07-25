@@ -86,9 +86,13 @@ In unsere Blog-Einträge können Inhalte von Drittanbietern eingebunden sein, we
 
 #### Kommentare
 
-In unserem Blog, in dem wir verschiedene Beiträge zu Themen rund um unsere Tätigkeiten veröffentlichen, können Sie öffentliche Kommentare abgeben. Ihr Kommentar wird mit Ihrem angegebenen Nutzernamen bei dem Beitrag veröffentlicht. Wir empfehlen, ein Pseudonym statt Ihres Klarnamens zu verwenden. 
+In unserem Blog können Sie öffentliche Kommentare abgeben. Ihr Kommentar wird mit Ihrem angegebenen Nutzernamen bei dem Beitrag veröffentlicht. Wir empfehlen, ein Pseudonym statt Ihres Klarnamens zu verwenden. 
 
-Unsere Kommentierungsfunktion nutzt das Plug-in „Disqus“, das von der Big Head Labs, Inc. http://www.disqus.com betrieben wird, die für die Verarbeitung der Kommentare verantwortlich sind (künftig: „Disqus“). Mit Disqus können Sie einen Kommentar zu unseren Beiträgen abgeben, der solange gespeichert und angezeigt wird, wie der kommentierte Beitrag auf unserer Website online ist, falls Sie den Kommentar nicht zuvor löschen. Die Kommentarfunktion können Sie unregistriert als Gast ebenso nutzen wie als angemeldeter Nutzer von Disqus auf allen Disqus nutzenden Websites. Darüber hinaus können Sie sich über Ihre Accounts der Drittanbieter Facebook, Twitter oder Google anmelden. Bei Anmeldung über die Zugangsdaten eines Drittanbieters wird auch dieser Ihre personenbezogenen Daten verarbeiten, wobei uns die Details nicht bekannt sind. Durch Disqus werden uns die durch die Kommentierungsfunktion erhobenen Daten bereitgestellt. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.  Die Kontaktdaten des Verantwortlichen lauten: Big Head Labs, Inc., San Francisco, USA. Nutzungsbedingungen: http://help.disqus.com/customer/portal/articles/466260-terms-of-service/ Nähere Informationen zur Verarbeitung Ihrer Daten können Sie den Datenschutzbestimmungen des Anbieters entnehmen: http://help.disqus.com/customer/portal/articles/466259-privacy-policy.
+Unsere Kommentierungsfunktion nutzt das Plug-in „Disqus“, das von der Big Head Labs Inc. betrieben wird, die für die Verarbeitung der Kommentare verantwortlich ist (künftig: „Disqus“). Mit Disqus können Sie einen Kommentar zu unseren Beiträgen abgeben, der solange gespeichert und angezeigt wird, wie der kommentierte Beitrag auf unserer Website online ist, falls Sie den Kommentar nicht zuvor löschen. 
+
+Die Kommentarfunktion können Sie unregistriert als Gast ebenso nutzen wie als angemeldeter Nutzer von Disqus auf allen Disqus nutzenden Websites. Darüber hinaus können Sie sich über Ihre Accounts der Drittanbieter Facebook, Twitter oder Google anmelden. Bei Anmeldung über die Zugangsdaten eines Drittanbieters wird auch dieser Ihre personenbezogenen Daten verarbeiten, wobei uns die Details nicht bekannt sind. Durch Disqus werden uns die durch die Kommentierungsfunktion erhobenen Daten bereitgestellt. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO. 
+
+Die Kontaktdaten des Verantwortlichen lauten: Big Head Labs, Inc., San Francisco, USA. Nutzungsbedingungen: http://help.disqus.com/customer/portal/articles/466260-terms-of-service/ Nähere Informationen zur Verarbeitung Ihrer Daten können Sie den Datenschutzbestimmungen des Anbieters entnehmen: http://help.disqus.com/customer/portal/articles/466259-privacy-policy.
 
 ### c. Newsletter
 
@@ -234,4 +238,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 19.06.2018_
+_Stand der Datenschutzerklärung: 25.07.2018_
