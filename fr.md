@@ -76,7 +76,7 @@ Microsoft/Bing est certifiée en vertu du bouclier de protection UE-États-Unis 
 
 Nous proposons un blog dans lequel nous publions diverses contributions aux sujets concernant nos activités afin d'élargir la diffusion de notre site Internet et de ses contenus dans le réseau et augmenter notre nombre de visiteurs.
 
-Nous utilisons la plateforme de blogging « Ghost » pour gérer le blog. Pour fournir ce service, Ghost accède à votre adresse IP lorsque vous utilisez les fonctions de notre blog. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Ghost est géré par Ghost Foundation, 24 Raffles Place, #10-05 Clifford Centre, 048621 Singapour. Vous trouverez de plus amples informations relatives à la protection des données de ce fournisseur tiers sur le site : https://ghost.org/privacy/.
+Nous utilisons la plateforme de blogging « Ghost » pour gérer le blog. Pour fournir ce service, Ghost accède à votre adresse IP lorsque vous utilisez les fonctions de notre blog. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Ghost est géré par Ghost Foundation, 24 Raffles Place, #10-05 Clifford Centre, 048621 Singapour. Vous trouverez de plus amples informations relatives à la protection des données de ce fournisseur tiers sur le site : [https://ghost.org/privacy/](https://ghost.org/privacy/).
 
 Lorsque vous utilisez les fonctions de notre blog, nous recueillons et stockons vos données à caractère personnel et vos données d’utilisation pour améliorer le service comme indiqué au point g. Web Analytics. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel.
  
@@ -86,7 +86,12 @@ Les publications de notre blog intègrent parfois des contenus tiers qui peuvent
 
 #### Commentaires
 
-to be translated
+Sur notre blog, vous pouvez écrire des commentaires qui seront accessibles publiquement. Votre commentaire sera publié sous le post avec votre nom d’utilisateur. Nous vous recommandons d’utiliser un pseudonyme plutôt que votre vrai nom.
+Notre fonction de commentaire utilise le plug-in « Disqus » , qui est exploité par Big Head Labs Inc. Ce service est responsable de la gestion des commentaires (ci-après : « Disqus »). Avec Disqus, vous pouvez publier un commentaire en lien avec nos posts : ce dernier sera sauvegardé et affiché aussi longtemps que le post en question est en ligne sur notre site Web, à moins que vous ne supprimiez le commentaire.
+
+Vous pouvez utiliser la fonction commentaire en tant qu’invité non inscrit ou en tant qu’utilisateur inscrit sur Disqus, et ce sur tous les sites Web utilisant Disqus. Vous pouvez également vous connecter via les comptes de prestataires tiers tels que Facebook, Twitter ou Google. Si vous vous connectez avec les données d’accès d’un prestataire tiers, ce dernier sera en mesure de traiter vos données à caractère personnel. Toutefois, les détails ne nous seront pas communiqués. Disqus met les données collectées via la fonction commentaire à notre disposition. La base juridique est l’art. 6, al. 1, phr. 1, let. f RGDP.
+
+Les coordonnées du responsable sont les suivantes : Big Head Labs, Inc., San Francisco, USA. Conditions d’utilisation : [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) Vous trouverez de plus amples informations sur le traitement de vos données dans la politique de confidentialité du fournisseur (en anglais) : [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy)
 
 ### c. Newsletter
 
@@ -232,4 +237,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 28/06/2018_
+_Date de la déclaration sur la protection des données : 02/08/2018_
