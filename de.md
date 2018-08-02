@@ -123,7 +123,19 @@ Für das Betreiben des Blogs nutzen wir die Bloggingplattform „Ghost”. Wenn 
 
 Wenn Sie unseren Blog Besuchen erheben und speichern wir, wie unter g. Web Analytics beschrieben, persönliche Daten und Daten zum Nutzungsverhalten um unseren Dienst kontinuierlich zu verbessern. Rechtsgrundlage für die Verarbeitung dieser Daten ist in beiden Fällen Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
+#### Inhalte von Drittanbietern
+
 In unsere Blog-Einträge können Inhalte von Drittanbietern eingebunden sein, welche in einigen Fällen persönliche Daten sammeln und speichern. Diese "Einbettungen" werden nicht von Ecosia oder Ghost sondern von einem Drittanbieter bereitgestellt und in unsere Blog-Einträge eingebunden. Hierbei handelt es sich zum Beispiel um YouTube Videos, Facebook oder Instagram Beiträge und Feeds oder Twitter Beiträge. Durch diese Einbettungen kann der Drittanbieter im gleichen Ausmaß auf Ihre Daten zugreifen, als bei einem direkten Besuch der Seite des Drittanbieters. Wenn Sie zum Beispiel einen Blog-Eintrag mit einem eingebetteten YouTube Video aufrufen, hat YouTube Zugriff auf Ihre IP-Addresse und andere Daten. In solchen Fällen hat Ecosia keine Kontrolle darüber welche Daten gesammelt und gespeichert werden oder was mit diesen Daten geschieht. Die Nutzung von personenbezogenen Daten durch eingebundene Inhalte Dritter wird somit nicht durch diese Datenschutzerklärung, sondern durch die Datenschutzerklärungen des entsprechenden Drittanbieters, abgedeckt.
+
+#### Kommentare
+
+In unserem Blog können Sie öffentliche Kommentare abgeben. Ihr Kommentar wird mit Ihrem angegebenen Nutzernamen bei dem Beitrag veröffentlicht. Wir empfehlen, ein Pseudonym statt Ihres Klarnamens zu verwenden. 
+
+Unsere Kommentierungsfunktion nutzt das Plug-in „Disqus“, das von der Big Head Labs Inc. betrieben wird, die für die Verarbeitung der Kommentare verantwortlich ist (künftig: „Disqus“). Mit Disqus können Sie einen Kommentar zu unseren Beiträgen abgeben, der solange gespeichert und angezeigt wird, wie der kommentierte Beitrag auf unserer Website online ist, falls Sie den Kommentar nicht zuvor löschen. 
+
+Die Kommentarfunktion können Sie unregistriert als Gast ebenso nutzen wie als angemeldeter Nutzer von Disqus auf allen Disqus nutzenden Websites. Darüber hinaus können Sie sich über Ihre Accounts der Drittanbieter Facebook, Twitter oder Google anmelden. Bei Anmeldung über die Zugangsdaten eines Drittanbieters wird auch dieser Ihre personenbezogenen Daten verarbeiten, wobei uns die Details nicht bekannt sind. Durch Disqus werden uns die durch die Kommentierungsfunktion erhobenen Daten bereitgestellt. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO. 
+
+Die Kontaktdaten des Verantwortlichen lauten: Big Head Labs, Inc., San Francisco, USA. Nutzungsbedingungen: [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) Nähere Informationen zur Verarbeitung Ihrer Daten können Sie den Datenschutzbestimmungen des Anbieters entnehmen: [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
 ### c. Newsletter
 

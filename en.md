@@ -121,7 +121,19 @@ We use the “Ghost” blogging platform to operate the blog. Ghost does have ac
 
 When you are using our blog functions we collect and store personal information and usage data in order to improve the service as described under g. Web Analytics. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
+#### Content embeds
+
 Blog posts may contain third-party embeds, which may in some cases collect and store personal data. These “embeds” are hosted by a third-party and embedded in our Blog. For example: YouTube videos, Facebook or Instagram posts and feeds or Twitter tweets that appear within a Blog post. These files send data to the hosting site just as if you were visiting that site directly. For example, when you load a Blog post page with a YouTube video embedded in it, YouTube receives data about your activity. Ecosia does not control what data third parties collect in cases like this, or what they will do with it. The use of personal data by embedded content providers is not covered by this statement, but by the privacy policies of those sites or services.
+
+#### Comments
+
+Public comments can be made on our blog. Comments you make are published with your user name. We recommend using a pseudonym rather than your real name.
+
+Our commenting function uses the Disqus plugin, operated by Big Head Labs Inc. (future: “Disqus”), which is responsible for processing comments. With Disqus, you can add a comment to our blogposts that will be saved and displayed as long as the post in question is online on our website or until you delete the comment.
+
+You can use the commenting function as both a guest and a registered Disqus user on all websites that use Disqus. You can also register via your accounts with the third-party providers Facebook, Twitter and Google. When you register via the login details of a third-party provider, the provider will also process your personal data; however, we will not have access to this information. Information collected by the commenting function is made available to us via Disqus. The legal basis for this is Art. 6(1)(1)(f) of the GDPR.
+
+The contact details of the responsible party are: Big Head Labs, Inc., San Francisco, USA. Terms of Service: [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) can find more detailed information on the processing of your data in the provider’s privacy policy: [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
 ### c. Newsletter
 
@@ -267,4 +279,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 02/08/2018*
+_Data protection declaration version date: 02/08/2018
