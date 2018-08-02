@@ -82,7 +82,13 @@ Blog posts may contain third-party embeds, which may in some cases collect and s
 
 #### Comments
 
-to be translated
+Public comments can be made on our blog. Comments you make are published with your user name. We recommend using a pseudonym rather than your real name.
+
+Our commenting function uses the Disqus plugin, operated by Big Head Labs Inc. (future: “Disqus”), which is responsible for processing comments. With Disqus, you can add a comment to our blogposts that will be saved and displayed as long as the post in question is online on our website or until you delete the comment.
+
+You can use the commenting function as both a guest and a registered Disqus user on all websites that use Disqus. You can also register via your accounts with the third-party providers Facebook, Twitter and Google. When you register via the login details of a third-party provider, the provider will also process your personal data; however, we will not have access to this information. Information collected by the commenting function is made available to us via Disqus. The legal basis for this is Art. 6(1)(1)(f) of the GDPR.
+
+The contact details of the responsible party are: Big Head Labs, Inc., San Francisco, USA. Terms of Service: [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) can find more detailed information on the processing of your data in the provider’s privacy policy: [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
 ### c. Newsletter
 
@@ -228,4 +234,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 28/06/2018*
+*Data protection declaration version date: 02/08/2018*
