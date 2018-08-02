@@ -120,16 +120,11 @@ Microsoft/Bing est certifiée en vertu du bouclier de protection UE-États-Unis 
 
 Nous proposons un blog dans lequel nous publions diverses contributions aux sujets concernant nos activités afin d'élargir la diffusion de notre site Internet et de ses contenus dans le réseau et augmenter notre nombre de visiteurs.
 
-Nous utilisons la plateforme de blogging « Tumblr » pour gérer le blog. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Tumblr est gérée par Tumblr Inc., 35 East 21st St, Ground Floor, New York, NY 10010, USA.
+Nous utilisons la plateforme de blogging « Ghost » pour gérer le blog. Pour fournir ce service, Ghost accède à votre adresse IP lorsque vous utilisez les fonctions de notre blog. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Ghost est géré par Ghost Foundation, 24 Raffles Place, #10-05 Clifford Centre, 048621 Singapour. Vous trouverez de plus amples informations relatives à la protection des données de ce fournisseur tiers sur le site : https://ghost.org/privacy/.
 
-Tumblr stocke et traite notamment les données suivantes :
-
-- Les informations techniques qui sont importantes pour l'affichage, p.ex. le navigateur ou le type d'appareil
-- Les adresses IP, les cookies ou les marqueurs web à des fins statistiques ainsi que pour éviter tout abus.
-
-Tumblr reçoit également, par le biais de ses cookies, l'information selon laquelle vous avez visité notre site Internet, si vous vous êtes connecté en même temps sur Tumblr au moment de la consultation du site Ecosia, que vous utilisiez la fonction Tumblr ou pas. Si tel n'est pas votre souhait, vous devez vous déconnecter de votre compte Tumblr avant de visiter la page Ecosia.
-
-Vous trouverez de plus amples informations relatives à la protection des données de ce fournisseur tiers sur le site : [https://www.tumblr.com/privacy](https://www.tumblr.com/privacy).
+Lorsque vous utilisez les fonctions de notre blog, nous recueillons et stockons vos données à caractère personnel et vos données d’utilisation pour améliorer le service comme indiqué au point g. Web Analytics. L’article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel.
+ 
+Les publications de notre blog intègrent parfois des contenus tiers qui peuvent être amenés à recueillir et à stocker les données à caractère personnel lorsque vous les consultez. Ces « contenus intégrés » sont hébergés par un tiers et insérés dans notre blog. Il peut s’agir par exemple de vidéos Youtube, de publications et de fils d’actualités Facebook et Instagram ou de tweets qui apparaissent dans un article de blog. Ces fichiers transmettent des données au site d’hébergement comme si vous aviez directement consulté celui-ci. Par exemple, lorsque vous chargez la page d’un article de blog qui contient une vidéo Youtube, des données en lien avec votre activité sont transmises à Youtube. Dans ce cas de figure, Ecosia n’a de contrôle ni sur la nature des données recueillies par ces tiers ni sur l’utilisation qui en est faite. L’utilisation des données à caractère personnel par des fournisseurs de contenus intégrés n’est pas couverte par la présente déclaration, mais par les politiques de confidentialité de ces sites ou services tiers. 
 
 ### c. Newsletter
 
