@@ -60,9 +60,49 @@ Les cookies persistants sont automatiquement supprimés après une durée préd�
 
 Vous pouvez configurer vos paramètres de navigateur conformément à vos souhaits et refuser les cookies de tiers ou tous les cookies, par exemple. Les cookies déjà stockés peuvent à tout moment être supprimés. Cela peut également se faire automatiquement. Nous attirons votre attention sur le fait que, si vous désactivez des cookies pour notre site Internet, il est possible que vous ne puissiez plus utiliser pleinement toutes les fonctions de ce site Internet.
 
-## 6. Mobile Apps
+## 6. Applications mobiles
 
-To be translated
+L’application Ecosia fournit d’autres moyens d’accès à la plate-forme Ecosia. Par conséquent, nous utilisons vos données dans l’application comme si vous accédiez à Ecosia via notre site Internet. Ceci s’applique par exemple à l’utilisation de vos données et de cookies qui seront exploités aux mêmes fins et sur la même base juridique. Ainsi, les affirmations comprises dans la présente Politique de confidentialité sont également valables pour l’application.
+
+### a. Utilisation supplémentaire de données spécifiques à l’application
+
+Nous utilisons un service d’analyse sécurisé et entièrement crypté que nous exploitons nous-mêmes afin d’analyser et d’améliorer en permanence l’utilisation de notre application. À l’aide des statistiques obtenues, nous pouvons améliorer notre offre qui vous est destinée en tant qu’utilisateur. La base juridique de ce traitement de vos données à caractère personnel est l’art. 6 al. 1 let. f du Règlement général sur la protection des données.
+
+En plus des données décrites au point 7.g., nous collectons les données suivantes lorsque vous utilisez notre application :
+
+- Les statistiques d’utilisation de l’application, p. ex. quels éléments de l’interface sont en interaction 
+- Les données relatives à votre application ou à votre terminal, p. ex. le nom de l’appareil, son fabricant, son modèle, le numéro de son système d’exploitation, le numéro de l’application ou la version du SDK et le numéro de l’appareil (IMEI) 
+
+L’application Ecosia peut être amenée à utiliser vos données de géolocalisation sous une forme anonymisée, voire pseudonymisée, si vous avez autorisé l’accès à ces données sur votre appareil. Nous utilisons les données de géolocalisation pour vous fournir une meilleure expérience Ecosia ou pour montrer davantage de résultats de recherche ou de publicités pertinents. Des données à caractère personnel telles que les noms, adresses ou dates de naissance ne seront pas collectées, stockées ou transmises.
+
+Ces données sont anonymisées dans un délai très court, généralement de l’ordre de 7 jours. Les données anonymisées sont sauvegardées tant que cela est nécessaire pour l’évaluation. Les données ne sont pas transférées à des tiers. Nous n’accéderons pas à vos données géolocalisées en dehors de l’application, comme votre calendrier, vos photos et vos messages, à moins que vous ne nous ayez permis de le faire.
+
+### b. Intégrations de tiers
+
+Nous utilisons un service de tiers appelé « HockeyApp » pour collecter et analyser des rapports d’erreur de notre application.
+
+HockeyApp sauvegarde et traite en particulier les données suivantes :
+- Des informations techniques qui sont importantes pour l’analyse, telles que le nom de l’appareil, son fabricant, son modèle, le numéro de son système d’exploitation, le numéro de l’application ou la version du SDK et le numéro de l’appareil (IMEI).
+
+HockeyApp est proposée selon les termes du Contrat de Service Microsoft Azure et est exploitée par : Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft est certifiée selon l’accord de protection de données « Privacy Shield » établi entre les États-Unis et l’UE et s’engage à respecter les dispositions de l’UE en matière de protection des données. Pour plus d’informations sur la protection des données sur HockeyApp, consultez le site : [https://hockeyapp.net/imprint/](https://hockeyapp.net/imprint/)
+
+### c. Suivi de conversion
+
+Nous utilisons plusieurs offres de fournisseurs tiers pour promouvoir notre application sur des sites Internet et des services externes. Nous avons intégré dans notre application des fournisseurs tiers qui établissent une connexion directe avec le serveur du fournisseur pour rapporter une conversion réussie. En ce qui concerne les données des campagnes publicitaires, nous pouvons déterminer le degré de réussite de chaque mesure de publicité. C’est ainsi que nous pouvons atteindre un juste calcul des coûts publicitaires. La base juridique de ce traitement de vos données est l’art. 6 al. 1 let. f du Règlement général sur la protection des données.
+
+Nous utilisons les services de suivi de conversion suivants dans l’application :
+
+- Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA ; [http://www.facebook.com/policy.php](http://www.facebook.com/policy.php)
+
+Nous n’avons aucune influence sur l’étendue et l’utilisation ultérieure des données qui sont collectées par le fournisseur tiers. Par conséquent, nous vous informons en fonction de ce que nous savons : En raison de son implication, le fournisseur tiers reçoit l’information que vous avez installé notre application suite à une campagne publicitaire lancée sur le réseau du tiers.
+
+Pour plus d’informations sur la politique de protection des données applicable chez les fournisseurs tiers que nous avons désignés pour mesurer la réussite de nos mesures publicitaires, consultez ce lien : [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). Facebook s’est engagée à respecter le programme de protection de la confidentialité établi entre les États-Unis et l’UE.
+
+### d. Notifications push
+
+Si vous avez configuré en ce sens votre terminal mobile et que vous avez activé les notifications push dans l’application Ecosia, ceci permettra à l’application Ecosia d’envoyer des notifications push à votre appareil, par exemple pour vous fournir des informations sur nous, nos projets de plantation, notre actualité et de nouvelles fonctionnalités ou pour vous envoyer des notifications système.
+
+Vous pouvez facilement révoquer à tout moment votre consentement à la réception de notifications push en les désactivant dans les paramètres du système d’exploitation.
 
 ## 7. Formes d'utilisation particulières du site Internet Ecosia
 
@@ -235,4 +275,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 03/07/2018_
+_Date de la déclaration sur la protection des données : 02/08/2018_
