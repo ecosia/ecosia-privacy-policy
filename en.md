@@ -56,7 +56,52 @@ We set one or several persistent cookies in order to save the user’s settings 
 Persistent cookies are automatically deleted after a specified length of time, which may differ from one cookie to another. You may delete the cookies in the security settings of your browser at any time.
 You may configure your browser setting the way you want it and e.g. refuse the acceptance of third-party cookies or all cookies. Cookies that have already been saved may be deleted at any time. This can also be done automatically. Please note that you may not be able to use all functions of this website within the full scope if you deactivate cookies for our website.
 
-## 6. Special forms of use of the Ecosia website
+## 6. Mobile Apps
+
+The Ecosia app provides another means of access to the Ecosia platform. Accordingly, we use your data within the app as if you were accessing Ecosia via our website. This applies, for example, also to the use of your data and cookies, which will be used for the same purposes on the same legal basis. Thus, the statements made in the present privacy policy will apply to the app.
+
+### a. Additional use of app-specific data
+
+We use a safe and fully encrypted analysis service, which we ourselves operate, in order to analyse and continuously improve the use of our app. Using the statistics obtained, we can improve our offering and design it in a more interesting way for you as a user. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
+
+Additionally to the data described under 7.g. we collect the following data when you use our app:
+
+ - Usage statistics of the app, e.g. which interface elements are interacted with
+ - Data relating to your app or your end device, e.g. the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI)
+
+The Ecosia app may use your locational data in anonymized, respectively pseudonymized, form if you have allowed access to these data on your device. We use the locational data in order to give you a better Ecosia experience or to show more relevant search results or advertising to you. Personal data such as names, addresses or dates of birth will not be collected, stored or transmitted.
+
+This data is anonymised after a short space of time, generally 7 days. The anonymised data is saved for as long as is necessary for the evaluation. The data is not transferred to any third party. We will not access your data located outside of the app, such as your calendar, photos, messages or such like unless you have permitted us to do so.
+
+### b. Third party integrations
+
+We use a 3rd party service called "HockeyApp" to collect and analyse crash reports of our app. 
+
+In particular, HockeyApp saves and processes the following data:
+
+ - Technical information which is important for the analysis such as the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI).
+
+HockeyApp is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at HockeyApp, go to: [https://hockeyapp.net/imprint/](https://hockeyapp.net/imprint/)
+
+### c. Conversion tracking
+
+We use several offerings of third-party providers to advertise our app on external websites and services. We have integrated third-party providers in our app which form a direct connection with the provider's server to report a succesfull conversion. In relation to the data of the advertising campaigns, we can determine how successful the individual advertising measures are. By doing so, we can achieve a fair calculation of advertising costs. The legal basis for this processing of your data is Art. 6 Para. 1 lit. f of the General Data Protection Regulation.
+
+We use the following conversion tracking services in the app:
+
+- Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). Facebook has undertaken to uphold the EU-US Privacy Shield.
+
+We do not have any influence on the scope and the further use of the data which are gathered by the third-party provider. Therefore, we inform you in accordance with what we know: Due to their involvement, the third-party provider receives the information that you installed our app due to an advertising campaign run through the third-parties network.
+
+For further information on data protection in third-party suppliers which we commission to measure the success of our advertising measures, go to:
+
+### d. Push notifications
+
+If you have correspondingly configured your mobile end device and have activated push notifications in the Ecosia app, this will enable the Ecosia app to send push notifications to your device, for example in order to provide you with information about us, about our planting projects, news or new functionalities or to send you system notifications.
+
+You may easily revoke your consent to receiving push notifications at any time by deactivating them in the settings of the operating system.
+
+## 7. Special forms of use of the Ecosia website
 
 ### a. Search
 
@@ -234,4 +279,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 02/08/2018*
+_Data protection declaration version date: 02/08/2018
