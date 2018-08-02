@@ -78,9 +78,10 @@ These data are anonymised after a short space of time, generally 7 days. The ano
 We use a 3rd party service called "HockeyApp" to collect and analyse crash reports of our app. 
 
 In particular, HockeyApp saves and processes the following data:
+
  - Technical information which is important for the analysis such as the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI).
 
-HockeyApp is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at HockeyApp, go to: https://hockeyapp.net/imprint/
+HockeyApp is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at HockeyApp, go to: [https://hockeyapp.net/imprint/](https://hockeyapp.net/imprint/)
 
 ### c. Conversion tracking
 
@@ -88,7 +89,7 @@ We use several offerings of third-party providers to advertise our app on extern
 
 We use the following conversion tracking services in the app:
 
-- Facebook: https://www.facebook.com/about/privacy. Facebook has undertaken to uphold the EU-US Privacy Shield.
+- Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). Facebook has undertaken to uphold the EU-US Privacy Shield.
 
 We do not have any influence on the scope and the further use of the data which are gathered by the third-party provider. Therefore, we inform you in accordance with what we know: Due to their involvement, the third-party provider receives the information that you installed our app due to an advertising campaign run through the third-parties network.
 
@@ -270,5 +271,5 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-*Data protection declaration version date: 07/03/2018*
+*Data protection declaration version date: 02/08/2018*
 
