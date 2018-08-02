@@ -60,25 +60,48 @@ Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht
 
 Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und z. B. die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Wir weisen Sie darauf hin, dass Sie eventuell nicht alle Funktionen dieser Website mehr vollumfänglich nutzen können, wenn Sie Cookies für unsere Website deaktivieren.
 
-## 6. Mobile apps
+## 6. Mobile Apps
 
-Die Ecosia-App ist ein anderer Zugang zur Ecosia-Plattform. Wir verwenden daher Ihre Daten dort so, als wenn Sie über unsere Webseite auf Ecosia zugreifen würden. Das gilt z.B. für die Verwendung Deiner Daten und das setzten von Cookies, zu den gleichen Zwecken und auf Basis der gleichen Rechtsgrundlagen. Die Ausführungen in dieser Datenschutzerklärung gelten insoweit entsprechend.
+Die Ecosia-App stellt eine weitere Möglichkeit für den Zugriff auf die Ecosia-Plattform bereit. Dementsprechend nutzen wir Ihre Daten innerhalb der App so, als erfolge der Zugriff auf Ecosia über unsere Website. Dies gilt beispielsweise für die Nutzung Ihrer Daten und von Cookies, die zu denselben Zwecken und auf derselben Rechtsgrundlage genutzt werden. Die Ausführungen in dieser Datenschutzerklärung gelten insoweit entsprechend für die mobilen Applikationen.
 
-### a. Zusätzliche Verwendung von App-spezifischen Daten
+### a. Zusätzliche Nutzung von App-spezifischen Daten
 
+Wir verwenden einen sicheren und vollständig verschlüsselten Analysedienst, den wir selbst betreiben, um die Nutzung unserer App zu analysieren und kontinuierlich zu optimieren. Anhand der erhobenen Statistiken können wir unser Angebot für Sie als Nutzer verbessern. Als Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten kommt Art. 6 Abs. 1 lit. f der Datenschutz-Grundverordnung zur Anwendung.
 
+Neben den unter 7.g. beschriebenen Daten erheben wir die folgenden Daten, wenn Sie unsere App nutzen:
 
-### b. Dienste Dritter
+- Nutzungsstatistiken der App, z. B. dazu, mit welchen Oberflächenelementen interagiert wird
+- Daten zu Ihrer App oder Ihrem Endgerät, z. B. Name des Gerätes, Hersteller, Modell, Betriebssystemversion, App-Version oder SDK-Version sowie Gerätenummer (IMEI)
 
+Die Ecosia App nutzt ggf. in anonymisierter bzw. pseudonymisierter Form Ihre Standortdaten, sofern Sie den Zugriff auf diese Daten auf Ihrem Gerät erlaubt haben. Wir nutzen die Standortdaten, um Ihnen ein besseres Benutzererlebnis im Zusammenhang mit Ecosia bieten oder relevantere Suchergebnisse oder Werbung für Sie bereitstellen zu können. Personenbezogene Daten, z. B. Name, Adresse oder Geburtsdatum, werden nicht erhoben, gespeichert oder übermittelt.
 
+Diese Daten werden nach einem kurzen Zeitraum anonymisiert, in der Regel innerhalb von sieben (7) Tagen. Die anonymisierten Daten werden so lange aufbewahrt, wie dies für die Auswertung erforderlich ist. Die Daten werden nicht an Dritte übermittelt. Wir greifen nicht auf Ihre Daten außerhalb der App zu, z. B. Ihren Kalender, Fotos, Nachrichten, sofern Sie uns hierfür keine Erlaubnis erteilt haben.
+
+### b. Integrationen von Anwendungen Dritter
+
+Zur Erfassung und Analyse von Absturzberichten unserer App nutzen wir den Dienst eines Drittanbieters ("HockeyApp").
+Insbesondere speichert und verarbeitet HockeyApp die folgenden Daten:
+
+- Technische Informationen, die für die Analyse relevant sind, z. B. Name des Gerätes, Hersteller, Modell, Betriebssystemversion, App-Version oder SDK-Version sowie Gerätenummer (IMEI).
+
+HockeyApp wird im Rahmen der Microsoft Azure-Servicevereinbarung angeboten und von folgendem Anbieter betrieben: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft ist gemäß dem Datenschutzabkommen zwischen Europa und den Vereinigten Staaten, d. h. dem EU-US-Datenschutzschild („EU-US Privacy Shield“), zertifiziert und verpflichtet sich zur Einhaltung der EU-Datenschutzbestimmungen. Weitere Informationen zum Datenschutz in Bezug auf HockeyApp finden Sie unter: [https://hockeyapp.net/imprint/](https://hockeyapp.net/imprint/)
 
 ### c. Conversion Tracking
 
+Wir nutzen mehrere Angebote von Drittanbietern, um unsere App auf externen Websites sowie in externen Diensten zu bewerben. Wir haben Drittanbieterdienste in unsere App eingebunden, die zum Zweck der Meldung einer erfolgreichen Konvertierung eine direkte Verbindung zum Server des Anbieters herstellen. In Bezug auf die Daten der Werbekampagnen können wir ermitteln, wie erfolgreich die einzelnen Werbemaßnahmen sind. Auf diese Weise können wir eine faire Berechnung der Werbekosten sicherstellen. Als Rechtsgrundlage für diese Verarbeitung Ihrer Daten kommt Art. 6 Abs. 1 lit. f der Datenschutz-Grundverordnung zur Anwendung.
 
+In der App kommen folgende Conversion-Tracking-Dienste zur Anwendung:
+
+- Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; [http://www.facebook.com/policy.php](http://www.facebook.com/policy.php)
+
+Wir haben keinen Einfluss auf den Umfang und die weitere Nutzung der Daten, die wir mithilfe des Drittanbieters erhoben haben. Daher teilen wir Ihnen auf der Basis unseres Kenntnisstandes Folgendes mit: Aufgrund seiner Beteiligung erhält der Drittanbieter die Information, dass Sie unsere App wegen einer über das Netzwerk des betreffenden Drittanbieters durchgeführten Werbekampagne installiert haben.
+
+Weitere Informationen zum Datenschutz der Drittanbieter, die wir zum Zweck der Messung des Erfolgs unserer Werbemaßnahmen beauftragen, finden Sie unter: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). Facebook hat sich zur Einhaltung des Datenschutzabkommens zwischen Europa und den Vereinigten Staaten, d. h. des EU-US-Datenschutzschilds („EU-US Privacy Shield“), verpflichtet.
 
 ### d. Push-Nachrichten
 
-
+Wenn Sie Ihr mobiles Endgerät entsprechend konfiguriert und Push-Benachrichtigungen in der Ecosia-App aktiviert haben, sendet die Ecosia-App Push-Benachrichtigungen an Ihr Gerät, z. B. um Ihnen Informationen über uns, unsere Aufforstungsprojekte, Neuigkeiten oder neue Funktionen bereitzustellen oder Systemmeldungen an Sie zu übermitteln.
+Sie können Ihre Einwilligung zum Empfang von Push-Benachrichtigungen jederzeit problemlos widerrufen, indem Sie die entsprechende Option in den Einstellungen des Betriebssystems deaktivieren.
 
 ## 7. Besondere Nutzungsformen der Ecosia Website
 
@@ -251,4 +274,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 03.07.2018_
+_Stand der Datenschutzerklärung: 02.08.2018_
