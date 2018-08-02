@@ -71,7 +71,7 @@ Additionally to the data described under 7.g. we collect the following data when
 
 The Ecosia app may use your locational data in anonymized, respectively pseudonymized, form if you have allowed access to these data on your device. We use the locational data in order to give you a better Ecosia experience or to show more relevant search results or advertising to you. Personal data such as names, addresses or dates of birth will not be collected, stored or transmitted.
 
-These data are anonymised after a short space of time, generally 7 days. The anonymised data are saved for as long as is necessary for the evaluation. The data are not transferred to any third party. We will not access your data located outside of the app, such as your calendar, photos, messages or such like unless you have permitted us to do so.
+This data is anonymised after a short space of time, generally 7 days. The anonymised data is saved for as long as is necessary for the evaluation. The data is not transferred to any third party. We will not access your data located outside of the app, such as your calendar, photos, messages or such like unless you have permitted us to do so.
 
 ### b. Third party integrations
 
