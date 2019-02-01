@@ -281,4 +281,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 02.08.2018_
+_Stand der Datenschutzerklärung: 01.02.2019_
