@@ -279,4 +279,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-_Data protection declaration version date: 02/08/2018
+_Data protection declaration version date: 01/02/2019_
