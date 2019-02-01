@@ -281,4 +281,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 02/08/2018_
+_Date de la déclaration sur la protection des données : 01/02/2019_
