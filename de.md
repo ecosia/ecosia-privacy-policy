@@ -71,7 +71,7 @@ Wir verwenden einen sicheren und vollständig verschlüsselten Analysedienst, de
 Neben den unter 7.g. beschriebenen Daten erheben wir die folgenden Daten, wenn Sie unsere App nutzen:
 
 - Nutzungsstatistiken der App, z. B. dazu, mit welchen Oberflächenelementen interagiert wird
-- Daten zu Ihrer App oder Ihrem Endgerät, z. B. Name des Gerätes, Hersteller, Modell, Betriebssystemversion, App-Version oder SDK-Version sowie Gerätenummer (IMEI)
+- Daten zu Ihrer App oder Ihrem Endgerät, z. B. Name des Gerätes, Hersteller, Modell, Betriebssystemversion sowie App-Version oder SDK-Version
 
 Die Ecosia App nutzt ggf. in anonymisierter bzw. pseudonymisierter Form Ihre Standortdaten, sofern Sie den Zugriff auf diese Daten auf Ihrem Gerät erlaubt haben. Wir nutzen die Standortdaten, um Ihnen ein besseres Benutzererlebnis im Zusammenhang mit Ecosia bieten oder relevantere Suchergebnisse oder Werbung für Sie bereitstellen zu können. Personenbezogene Daten, z. B. Name, Adresse oder Geburtsdatum, werden nicht erhoben, gespeichert oder übermittelt.
 
@@ -281,4 +281,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 02.08.2018_
+_Stand der Datenschutzerklärung: 01.02.2019_

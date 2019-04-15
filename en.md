@@ -67,7 +67,7 @@ We use a safe and fully encrypted analysis service, which we ourselves operate, 
 Additionally to the data described under 7.g. we collect the following data when you use our app:
 
  - Usage statistics of the app, e.g. which interface elements are interacted with
- - Data relating to your app or your end device, e.g. the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI)
+ - Data relating to your app or your end device, e.g. the name of the device, its manufacturer, model, operating system number and app number or SDK version
 
 The Ecosia app may use your locational data in anonymized, respectively pseudonymized, form if you have allowed access to these data on your device. We use the locational data in order to give you a better Ecosia experience or to show more relevant search results or advertising to you. Personal data such as names, addresses or dates of birth will not be collected, stored or transmitted.
 
@@ -279,4 +279,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-_Data protection declaration version date: 02/08/2018
+_Data protection declaration version date: 01/02/2019_

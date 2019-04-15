@@ -71,7 +71,7 @@ Nous utilisons un service d’analyse sécurisé et entièrement crypté que nou
 En plus des données décrites au point 7.g., nous collectons les données suivantes lorsque vous utilisez notre application :
 
 - Les statistiques d’utilisation de l’application, p. ex. quels éléments de l’interface sont en interaction 
-- Les données relatives à votre application ou à votre terminal, p. ex. le nom de l’appareil, son fabricant, son modèle, le numéro de son système d’exploitation, le numéro de l’application ou la version du SDK et le numéro de l’appareil (IMEI) 
+- Les données relatives à votre application ou à votre terminal, p. ex. le nom de l’appareil, son fabricant, son modèle, le numéro de son système d’exploitation et le numéro de l’application ou la version du SDK
 
 L’application Ecosia peut être amenée à utiliser vos données de géolocalisation sous une forme anonymisée, voire pseudonymisée, si vous avez autorisé l’accès à ces données sur votre appareil. Nous utilisons les données de géolocalisation pour vous fournir une meilleure expérience Ecosia ou pour montrer davantage de résultats de recherche ou de publicités pertinents. Des données à caractère personnel telles que les noms, adresses ou dates de naissance ne seront pas collectées, stockées ou transmises.
 
@@ -281,4 +281,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 02/08/2018_
+_Date de la déclaration sur la protection des données : 01/02/2019_
