@@ -6,8 +6,8 @@ Der Schutz Ihrer Privatsphäre ist für uns von höchster Bedeutung. Diese Daten
 Der Verantwortliche im Sinne der Datenschutz-Grundverordnung ist die:
 
 Ecosia GmbH  
-Schinkestraße 9  
-12047 Berlin Germany  
+Gerichtstraße 23
+13347 Berlin Germany  
 [info@ecosia.org](mailto:info@ecosia.org)
 
 Unseren Datenschutzbeauftragten erreichen Sie unter <privacy@ecosia.org> oder unserer Postadresse mit dem Zusatz „Datenschutz”.
@@ -281,4 +281,4 @@ Zur Geltendmachung eines Widerspruchs oder Widerrufs können Sie sich an unseren
 
 --
 
-_Stand der Datenschutzerklärung: 01.02.2019_
+_Stand der Datenschutzerklärung: 01.02.2020_

@@ -5,8 +5,8 @@ The protection of your privacy is extremely important to us. This data protectio
 In relation to the General Data Protection Regulation (DSGVO), the organisation responsible is: 
 
 Ecosia GmbH  
-Schinkestraße 9  
-12047 Berlin Germany  
+Gerichtstraße 23
+13347 Berlin Germany  
 [info@ecosia.org](mailto:info@ecosia.org)
 
 Our Data Protection Officer can be contacted at privacy@ecosia.org or our postal address with the addition of "data protection".
@@ -279,4 +279,4 @@ To assert a refusal or a withdrawal of consent, please contact our Data Protecti
 
 ---
 
-_Data protection declaration version date: 01/02/2019_
+_Data protection declaration version date: 01/02/2020_

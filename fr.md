@@ -6,8 +6,8 @@ Nous accordons la plus haute importance à la protection de votre vie privée. L
 Le responsable du traitement au sens du règlement général sur la protection des données est :
 
 Ecosia GmbH  
-Schinkestraße 9  
-12047 Berlin Germany  
+Gerichtstraße 23
+13347 Berlin Germany  
 [info@ecosia.org](mailto:info@ecosia.org)
 
 Vous pouvez joindre notre délégué à la protection des données à l'adresse e-mail privacy@ecosia.org ou à notre adresse postale en ajoutant la mention « Protection des données ».
@@ -281,4 +281,4 @@ Pour faire valoir une opposition ou une révocation, vous pouvez contacter notre
 
 ---
 
-_Date de la déclaration sur la protection des données : 01/02/2019_
+_Date de la déclaration sur la protection des données : 01/02/2020_
