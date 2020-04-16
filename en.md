@@ -89,7 +89,7 @@ We use several offerings of third-party providers to advertise our app on extern
 
 We use the following conversion tracking services in the app:
 
-- Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; [http://www.facebook.com/policy.php](http://www.facebook.com/policy.php)
+- Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)
 
 We do not have any influence on the scope and the further use of the data which are gathered by the third-party provider. Therefore, we inform you in accordance with what we know: Due to their involvement, the third-party provider receives the information that you installed our app due to an advertising campaign run through the third-parties network.
 
