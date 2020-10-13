@@ -75,13 +75,13 @@ This data is anonymised after a short space of time, generally 7 days. The anony
 
 ### b. Third party integrations
 
-We use a 3rd party service called "HockeyApp" to collect and analyse crash reports of our app. 
+We use a 3rd party service called "App Center" to collect and analyze crash reports of our app.
 
-In particular, HockeyApp saves and processes the following data:
+In particular, App Center saves and processes the following data:
 
  - Technical information which is important for the analysis such as the name of the device, its manufacturer, model, operating system number, app number or SDK version and the device number (IMEI).
 
-HockeyApp is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at HockeyApp, go to: [https://hockeyapp.net/imprint/](https://hockeyapp.net/imprint/)
+App Center is offered under the Microsoft Azure Service Agreement and is operated by: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA. Microsoft is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. For information on data protection at App Center, go to: https://privacy.microsoft.com/privacystatement
 
 ### c. Conversion tracking
 
@@ -182,7 +182,7 @@ In all cases, your documents are deleted no later than one month after the end o
 
 ### f. Contact form and help pages
 
-We use the “Zendesk” platform to handle your enquiries. In an enquiry, the data you provide are saved and processed in order to answer your questions. At the same time, we gather certain pieces of statistical information via cookies in order to improve the contact and enquiry function and use your data to prevent any potential misuse of this function. In this context, the data are not forwarded to third parties. The data arising in this context are deleted after their storage is no longer necessary or restricted if legal storage obligations exist.
+We use the “Zendesk” and “Help Scout” platform to handle your enquiries. In an enquiry, the data you provide are saved and processed in order to answer your questions. At the same time, we gather certain pieces of statistical information via cookies in order to improve the contact and enquiry function and use your data to prevent any potential misuse of this function. In this context, the data are not forwarded to third parties. The data arising in this context are deleted after their storage is no longer necessary or restricted if legal storage obligations exist.
 
 The following pieces of your data are saved:
 
@@ -195,6 +195,8 @@ The following pieces of your data are saved:
 The processing of your personal data for the use of our enquiry and contact function is carried out on the basis of your consent.
 
 The headquarters of Zendesk are located in the US, and your data, gathered when using our enquiry and contact function, are sent there. Zendesk is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG
+
+Help scout is located n the US too. They are GDPR compliant and have a solid security and privacy practices in place that go beyond the requirements of this new regulation. https://www.helpscout.com/company/legal/gdpr/
 
 ### g. Web analytics
 
