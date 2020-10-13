@@ -196,7 +196,7 @@ The processing of your personal data for the use of our enquiry and contact func
 
 The headquarters of Zendesk are located in the US, and your data, gathered when using our enquiry and contact function, are sent there. Zendesk is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions. https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG
 
-Help scout is located in the US too. They are GDPR compliant and have a solid security and privacy practices in place that go beyond the requirements of this new regulation. https://www.helpscout.com/company/legal/gdpr/
+Help scout is located in the US too. They are GDPR compliant and have security and privacy practices in place that go beyond the requirements of this regulation. https://www.helpscout.com/company/legal/gdpr/
 
 ### g. Web analytics
 
