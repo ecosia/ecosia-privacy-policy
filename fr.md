@@ -172,7 +172,7 @@ Ces données sont stockées aussi longtemps que cela est nécessaire pour l'anal
 
 ### e. Candidatures
 
-Pour l'administration de notre processus de recrutement, nous utilisons la plateforme « Workable ». Workable est gérée par Workable Software Limited, 21a Kingly Street, 2nd Floor, Londres, Royaume-Uni.
+Pour l'administration de notre processus de recrutement, nous utilisons la plateforme « Lever ». Workable est gérée par Lever, 1125 Mission Street, San Francisco, CA 94103.
 
 Au cours du processus de recrutement, toutes les données que vous avez fournies pour votre candidature (nom, adresse e-mail, numéro de téléphone, photo, CV, lettre d'accompagnement, etc.) ainsi que la communication associée avec nous et Ecosia sont stockées.
 
