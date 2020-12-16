@@ -172,7 +172,7 @@ Diese Daten werden so lange gespeichert, wie dies zur Auswertung der Umfrage erf
 
 ### e. Bewerbungen
 
-Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform „Workable”. Workable wird betrieben von Workable Software Limited, 21a Kingly Street, 2nd Floor, London, UK.
+Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform „Lever”. Workable wird betrieben von Lever, 1125 Mission Street, San Francisco, CA 94103.
 
 Während des Bewerbungsprozesses werden alle Daten gespeichert, die Sie für Ihre Bewerbung bereitgestellt haben (Name, E-Mail-Adresse, Telefonnummer, Foto, Lebenslauf, Anschreiben etc.) ebenso wie die damit im Zusammenhang stehende Kommunikation zwischen Ihnen und Ecosia.
 

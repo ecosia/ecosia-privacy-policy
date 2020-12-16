@@ -170,7 +170,7 @@ These data are saved for as long as they are required for evaluation of the surv
 
 ### e. Job applications
 
-We use the “Workable” application platform to administer our job application process. Workable is operated by Workable Software Limited, 21a Kingly Street, 2nd Floor, London, UK.
+We use the “Lever” application platform to administer our job application process. Lever is operated by Lever, 1125 Mission Street, San Francisco, CA 94103.
 
 All data which you have provided for your job application (name, email address, phone number, photo, CV, cover letter, etc.) as well as the associated communication between you and Ecosia are saved during the job application process. 
 
