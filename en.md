@@ -17,7 +17,8 @@ You have the following rights with respect to us regarding the personal data rel
  - Right to information
  - Right to correction or deletion
  - Right to restriction of processing
- - Right to refuse processing Right to data transferability
+ - Right to refuse processing 
+ - Right to data transferability
  - In addition, you have the right to complain to a data protection supervisory authority regarding our processing of your personal data.
 
 ## 3. Processing by external service providers
