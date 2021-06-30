@@ -137,28 +137,7 @@ Die Kommentarfunktion können Sie unregistriert als Gast ebenso nutzen wie als a
 
 Die Kontaktdaten des Verantwortlichen lauten: Big Head Labs, Inc., San Francisco, USA. Nutzungsbedingungen: [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) Nähere Informationen zur Verarbeitung Ihrer Daten können Sie den Datenschutzbestimmungen des Anbieters entnehmen: [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
-### c. Newsletter
-
-Sie können unseren Newsletter abonnieren, mit dem wir Sie über unsere aktuellen interessanten Angebote informieren. Die beworbenen Waren und Dienstleistungen sind in der Einwilligungserklärung benannt. Für den Versand unseres Newsletters nutzen wir die Newsletterversandplattform „Mailchimp”. Mailchimp wird betrieben von The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
-
-Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass Sie nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse erhalten, in welcher Sie um Bestätigung gebeten werden, dass Sie den Versand des Newsletters wünschen. Wenn Sie Ihre Anmeldung nicht innerhalb von 24 Stunden bestätigen, werden Ihre Informationen gesperrt und nach einem Monat automatisch gelöscht. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können.
-
-Gespeichert werden:
-
-- Die E-Mail-Adresse, an die Sie den Newsletter geschickt haben möchten
-- Der Zeitpunkt und die IP Adresse Ihrer Anmeldung, um ggf. den Missbrauch der E-Mail-Adresse eines Betroffenen zu einem späteren Zeitpunkt nachvollziehen zu können
-- Technische Informationen, die zur Darstellung wichtig sind (z.B. Browser), sowie Daten zur Verbesserung des Services (z.B. Zugriffszeit)
-- Daten für statistische Erhebungen, wie das Öffnen des Newsletters und Ihr Klickverhalten auf Links im Newsletter
-
-Wir geben Ihre E-Mail-Adresse explizit nicht an Dritte weiter. MailChimp ist unter dem US-EU-Datenschutzabkommen „[Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)” zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten.
-
-Ihre E-Mail-Adresse wird solange gespeichert, wie das Abonnement des Newsletters aktiv ist. Die sonstigen im Rahmen Ihrer Anmeldung erhobenen Daten werden in der Regel nach einer Frist von 7 Tagen gelöscht.
-
-Der Newsletter kann von Ihnen jederzeit wieder abbestellt werden. Hierzu finden Sie in jedem Newsletter einen entsprechenden Link. Hierdurch wird ebenfalls ein Widerruf der Einwilligung der Speicherung der während des Anmeldevorgangs erhobenen personenbezogenen Daten ermöglicht.
-
-Wir weisen Sie zusätzlich auf die Widerspruchsmöglichkeiten in die Datenerhebung zu Werbezwecken auf den Webseiten [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) und [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/uk/your-ad-choices/) (für den Europäischen Raum) hin.
-
-### d. Umfragen
+### c. Umfragen
 
 Für die Durchführung unserer Umfragen nutzen wir die Plattform „Typeform”. Umfragen dienen uns dazu, unsere Angebote noch besser auf Ihre Bedürfnisse anzupassen. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Typeform wird betrieben von TYPEFORM S.L. Carrer Bac de Roda, 163, 08018 Barcelona, Spanien. Wenn Sie an einer Umfrage teilnehmen, werden folgende Daten verarbeitet:
 
@@ -170,7 +149,7 @@ Für die Durchführung unserer Umfragen nutzen wir die Plattform „Typeform”.
 
 Diese Daten werden so lange gespeichert, wie dies zur Auswertung der Umfrage erforderlich ist, in der Regel bis zu zwei Jahren. Danach werden sie gelöscht oder anonymisiert. Eine Weitergabe an Dritte der im Zusammenhang mit Umfragen erhobenen Daten erfolgt nicht.
 
-### e. Bewerbungen
+### d. Bewerbungen
 
 Für die Administration unseres Bewerbungsprozesses nutzen wir die Bewerbungsplattform „Lever”. Workable wird betrieben von Lever, 1125 Mission Street, San Francisco, CA 94103.
 
@@ -182,7 +161,7 @@ Rechtsgrundlage für die Verarbeitung der Daten nach Bestätigung Ihrer Bewerbun
 
 In jedem Fall werden Ihre Unterlagen spätestens einen Monat nach Ende des Bewerbungsprozesses gelöscht.
 
-### f. Kontaktformular und Hilfe-Seiten
+### e. Kontaktformular und Hilfe-Seiten
 
 Für die Bearbeitung Ihrer Anfragen nutzen wir die Plattform „Zendesk”. Bei einer Anfrage werden die von Ihnen mitgeteilten Daten gespeichert und verarbeitet, um Ihre Fragen zu beantworten. Gleichzeitig erheben wir über Cookies bestimmte statistische Informationen zur Verbesserung der Kontakt- und Anfragefunktion und nutzen Ihre Daten, um einem möglichen Missbrauch dieser Funktion vorzubeugen. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die in diesem Zusammenhang anfallenden Daten werden gelöscht, nachdem die Speicherung nicht mehr erforderlich ist, oder eingeschränkt, falls gesetzliche Aufbewahrungspflichten bestehen.
 
@@ -198,7 +177,7 @@ Die Verarbeitung Ihrer personenbezogenen Daten für die Nutzung unserer Anfragen
 
 Der Betreiber von Zendesk hat seinen Sitz in den USA, wohin auch Ihre Daten bei Nutzung unserer Anfragen- und Kontaktfunktion transferiert werden. Zendesk ist unter dem US-EU-Datenschutzabkommen _„_Privacy Shield_”_ zertifiziert und verpflichtet sich damit, die EU-Datenschutzvorgaben einzuhalten. [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)
 
-### g. Web Analytics
+### f. Web Analytics
 
 Wir nutzen einen von uns selbst betriebenen, sicheren und voll verschlüsselten Webanalysedienst, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
@@ -217,7 +196,7 @@ Diese Daten werden nach kurzer Zeit, in der Regel nach 7 Tagen anonymisiert. Die
 
 Wenn Sie an der Messung nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten mit dem Aktivieren der „Do Not Track” Einstellung in ihrem Browser deaktivieren.
 
-### h. A/B-Testing
+### g. A/B-Testing
 
 Wir führen weiterhin Analysen des Nutzerverhaltens über ein sog. A/B-Testing durch. Dabei können wir Ihnen unsere Websites mit leicht variierten Inhalten anzeigen, je nach einer erfolgten Profilzuordnung. So können wir unser Angebot analysieren, regelmäßig verbessern und für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für diese Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
@@ -227,7 +206,7 @@ Vor Durchführung der Analysen werden die IP-Adressen gekürzt weiterverarbeitet
 
 Wenn Sie an den Tests nicht teilnehmen möchten, können Sie die Erhebung sämtlicher Nutzungsdaten und das Speichern der diesbezüglichen Cookies mit dem Aktivieren der „Do Not Track” Einstellung in Ihrem Browser deaktivieren.
 
-### i. Online-Werbung
+### h. Online-Werbung
 
 #### Werbung auf Ecosia
 

@@ -135,29 +135,7 @@ You can use the commenting function as both a guest and a registered Disqus user
 
 The contact details of the responsible party are: Big Head Labs, Inc., San Francisco, USA. Terms of Service: [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) can find more detailed information on the processing of your data in the provider’s privacy policy: [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
-### c. Newsletter
-
-You can subscribe to our newsletter through which we inform you of our latest interesting offerings. The goods and services advertised are specified in the declaration of consent. We use the “Mailchimp” newsletter delivery platform to send our newsletter. Mailchimp is operated by The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
-
-We use the “double opt-in” procedure for registration for our newsletter. This means that, after registering, you receive an email to the email address provided, in which you are asked to confirm that you want to receive the newsletter. If you do not confirm your registration within 24 hours, your information is locked and deleted automatically after one month. The aim of this procedure is to prove your registration and, as applicable, to resolve a potential misuse of your personal data.
-
-The following are saved:
-
- - The email address at which you would like to receive the newsletter. 
- - The time and IP address at which you carried out the registration so that the misuse of the email address of a person affected can subsequently be traced. 
- - Technical information which is important for the presentation (e.g. browser) as well as data to improve the service (e.g. time of access)
- - Data gathered for statistical purposes such as the opening of the newsletter and your click behaviour on
- links in the newsletter
-
-We explicitly do not give your email address to any third party. Mailchimp is certified under the “Privacy Shield” US-EU data protection agreement and undertakes to uphold the EU data protection provisions.
-
-Your email address is saved for as long as the subscription to the newsletter is active. The other data gathered as part of your registration are generally deleted within a seven-day period.
-
-You may unsubscribe from the newsletter at any time. This can be carried out using the link provided in each newsletter. This link also enables you to withdraw your consent to saving of the personal data gathered during the registration process.
-
-We also refer you to the refusal options in data gathering for advertising purposes on the websites http://www.aboutads.info/choices/ and http://www.youronlinechoices.com/ (for the European area).
-
-### d. Surveys
+### c. Surveys
 
 We use the “Typeform” platform to carry out our surveys. Surveys help us to better adapt our offerings to your needs. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation. Typeform is operated by TYPEFORM S.L. Carrer Bac de Roda, 163, 08018 Barcelona, Spain. If you take part in a survey, the following data are processed:
 
@@ -168,7 +146,7 @@ We use the “Typeform” platform to carry out our surveys. Surveys help us to 
 
 These data are saved for as long as they are required for evaluation of the survey, generally up to two years. After this, they are deleted or anonymised. The data gathered in relation to surveys is not transferred to any third party. 
 
-### e. Job applications
+### d. Job applications
 
 We use the “Lever” application platform to administer our job application process. Lever is operated by Lever, 1125 Mission Street, San Francisco, CA 94103.
 
@@ -180,7 +158,7 @@ The legal basis for the processing of the data following confirmation of your ap
 
 In all cases, your documents are deleted no later than one month after the end of the application process.
 
-### f. Contact form and help pages
+### e. Contact form and help pages
 
 We use the “Zendesk” and “Help Scout” platform to handle your enquiries. In an enquiry, the data you provide are saved and processed in order to answer your questions. At the same time, we gather certain pieces of statistical information via cookies in order to improve the contact and enquiry function and use your data to prevent any potential misuse of this function. In this context, the data are not forwarded to third parties. The data arising in this context are deleted after their storage is no longer necessary or restricted if legal storage obligations exist.
 
@@ -198,7 +176,7 @@ The headquarters of Zendesk are located in the US, and your data, gathered when 
 
 Help scout is located in the US too. They are GDPR compliant and have security and privacy practices in place that go beyond the requirements of this regulation. https://www.helpscout.com/company/legal/gdpr/
 
-### g. Web analytics
+### f. Web analytics
 
 We use a safe and fully encrypted web analysis service, which we ourselves operate, in order to analyse and continuously improve the use of our website. Using the statistics obtained, we can improve our offering and design it in a more interesting way for you as a user. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
@@ -217,7 +195,7 @@ These data are anonymised after a short space of time, generally 7 days. The ano
 
 If you do not wish to take part in the tracking, you can deactivate the gathering of all usage data by activating the “Do not track” setting in your browser.
 
-### h. A/B testing
+### g. A/B testing
 
 We additionally carry out analyses of usage behaviour by means of “A/B testing”. As part of this, based on the completion of a profile assignment, we can show you our websites with slightly varied content. Thus, we can analyse and continuously improve our offering, and make it more interesting for you as a user. The legal basis for this processing of your personal data is Art. 6 Abs. 1 lit. f of the General Data Protection Regulation.
 
@@ -227,7 +205,7 @@ Before carrying out the analyses, the IP addresses are processed further in a sh
 
 If you do not wish to take part in the tests, you can deactivate the gathering of all usage data and the saving of the relevant cookies by activating the “Do not track” setting in your browser.
 
-### i. Online advertising
+### h. Online advertising
 
 #### Advertising on Ecosia
 

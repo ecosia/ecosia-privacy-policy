@@ -137,28 +137,7 @@ Vous pouvez utiliser la fonction commentaire en tant qu’invité non inscrit ou
 
 Les coordonnées du responsable sont les suivantes : Big Head Labs, Inc., San Francisco, USA. Conditions d’utilisation : [http://help.disqus.com/customer/portal/articles/466260-terms-of-service/](http://help.disqus.com/customer/portal/articles/466260-terms-of-service/) Vous trouverez de plus amples informations sur le traitement de vos données dans la politique de confidentialité du fournisseur (en anglais) : [http://help.disqus.com/customer/portal/articles/466259-privacy-policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy)
 
-### c. Newsletter
-
-Vous pouvez vous abonner à notre newsletter via laquelle nous vous informons de nos offres intéressantes actuelles. Les produits et services promus sont mentionnés dans la déclaration de consentement. Pour l'envoi de notre newsletter, nous utilisons la plateforme d'envoi de newsletters « Mailchimp ». Mailchimp est gérée par The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA.
-
-Pour l'inscription à notre newsletter, nous utilisons la procédure de double confirmation. C'est-à-dire qu'après votre inscription, vous recevrez un e-mail à l'adresse e-mail indiquée, dans lequel il vous sera demandé de confirmer que vous souhaitez recevoir la newsletter. Si vous ne confirmez pas votre inscription dans un délai de 24 heures, vos informations seront bloquées et automatiquement effacées après un délai d'un mois. Le but de la procédure est de prouver votre inscription et de pouvoir, le cas échéant, identifier une utilisation abusive éventuelle de vos données personnelles.
-
-Sont stockés :
-
-- L'adresse e-mail à laquelle vous souhaitez recevoir la newsletter.
-- Le moment et l'adresse IP de votre inscription pour pouvoir, le cas échéant, retracer l'utilisation abusive de l'adresse e-mail d'une personne concernée à un moment ultérieur.
-- Les informations techniques qui sont importantes pour l'affichage (le navigateur, p.ex.), ainsi que les données utilisées pour améliorer le service (temps d'accès, p.ex.)
-- Des données à des fins statistiques, comme l'ouverture de la newsletter et les clics sur des liens présents dans la newsletter
-
-Nous ne transmettons pas explicitement votre adresse e-mail à des tiers. MailChimp est certifiée en vertu du bouclier de protection UE-États-Unis «  [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)  » et s'engage ainsi à respecter les directives de l'UE relatives à la protection des données.
-
-Votre adresse e-mail est stockée tant que l'abonnement à la newsletter est activé. Les autres données collectées dans le cadre de votre inscription sont en règle générale effacées après un délai de 7 jours.
-
-Vous pouvez à tout moment vous désabonner de la newsletter. Vous trouverez à ce sujet un lien correspondant dans chaque newsletter. Vous avez ainsi également la possibilité de révoquer votre consentement au stockage pendant le processus d'enregistrement de données à caractère personnel collectées.
-
-Nous attirons également votre attention sur les possibilités d'opposition contre la collecte de données à des fins publicitaires sur les sites Internet [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) et [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/uk/your-ad-choices/) (pour l'espace européen).
-
-### d. Sondages
+### c. Sondages
 
 Pour la réalisation de nos sondages, nous utilisons la plateforme « Typeform ». Les sondages nous servent à adapter encore mieux nos offres à vos besoins. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel. Typeform est gérée par TYPEFORM S.L. Carrer Bac de Roda, 163, 08018 Barcelone, Espagne. Lorsque vous participez à un sondage, les données suivantes sont traitées :
 
@@ -170,7 +149,7 @@ Pour la réalisation de nos sondages, nous utilisons la plateforme « Typeform �
 
 Ces données sont stockées aussi longtemps que cela est nécessaire pour l'analyse du sondage, en règle générale jusqu'à deux ans. Elles sont ensuite effacées ou rendues anonymes. Les données ne sont pas transmises à des tiers dans le cadre des sondages.
 
-### e. Candidatures
+### d. Candidatures
 
 Pour l'administration de notre processus de recrutement, nous utilisons la plateforme « Lever ». Workable est gérée par Lever, 1125 Mission Street, San Francisco, CA 94103.
 
@@ -182,7 +161,7 @@ L'article 6, alinéa 1, lit. a RGPD constitue la base juridique pour le traiteme
 
 Dans tous les cas, vos documents seront supprimés au plus tard un mois suivant la fin de la procédure de recrutement.
 
-###  f. Formulaire de contact et pages d'aide
+###  e. Formulaire de contact et pages d'aide
 
 Pour le traitement de vos demandes, nous utilisons la plateforme « Zendesk ». Lors d'une demande, les données que vous avez communiquées sont stockées et traitées pour répondre à vos questions. En même temps, nous collectons, par le biais des cookies, certaines informations statistiques utilisées pour améliorer la fonction de contact et de demande et utilisons vos données pour éviter toute utilisation abusive de cette fonction. Les données ne sont pas transmises à des tiers dans ce contexte. Les données générées dans ce contexte sont supprimées à partir du moment où le stockage n'est plus nécessaire, ou restreintes si des obligations légales de conservation s'appliquent.
 
@@ -198,7 +177,7 @@ Le traitement de vos données à caractère personnel pour l'utilisation de notr
 
 L'exploitant de Zendesk a son siège aux États-Unis, où vos données sont également transférées lors de l'utilisation de notre fonction de demande et de contact. Zendesk est certifiée en vertu du bouclier de protection des données UE-États-Unis _« _Privacy Shield_ »_ et s'engage ainsi à respecter les directives de l'UE sur la protection des données. [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG)
 
-### g. Web Analytics
+### f. Web Analytics
 
 Nous utilisons un service d'analyse de site web géré par nous-mêmes, sécurisé et entièrement crypté afin d'analyser l'utilisation de notre site Internet et de pouvoir régulièrement l'améliorer. Les statistiques obtenues nous permettent d'améliorer notre offre et de la rendre plus intéressante pour vous en tant qu'utilisateur. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel.
 
@@ -217,7 +196,7 @@ Ces données sont rendues anonymes après un court délai, en règle générale 
 
 Si vous ne souhaitez pas participer à la mesure, vous pouvez désactiver la collecte de toutes les données d'utilisation en activant le paramètre « Do Not Track » dans votre navigateur.
 
-### h. Test A/B
+### g. Test A/B
 
 Nous effectuons en outre des analyses du comportement d'utilisateur par le biais d'un test A/B. Ainsi, nous pouvons afficher sur nos sites Internet des contenus qui varient légèrement après une attribution de profils. Ainsi, nous pouvons analyser notre offre, l'améliorer régulièrement et la rendre plus intéressante pour vous en tant qu'utilisateur. L'article 6, alinéa 1, lit. f RGPD constitue la base juridique pour ce traitement de vos données à caractère personnel.
 
@@ -227,7 +206,7 @@ Avant l'exécution des analyses, les adresses IP sont traitées ultérieurement 
 
 Si vous ne souhaitez pas participer aux tests, vous pouvez désactiver la collecte de toutes les données d'utilisation et le stockage des cookies s'y rapportant en activant le paramètre « Do Not Track » dans votre navigateur.
 
-### i. Publicité en ligne
+### h. Publicité en ligne
 
 #### Publicité sur Ecosia
 
