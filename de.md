@@ -248,7 +248,7 @@ Weitere Informationen zum Datenschutz bei Drittanbietern, die wir zur Erfolgskon
 
 Wir binden externe Tracking Skripte und Pixel niemals auf Ecosia-Suchseiten ein. Hierdurch werden Suchdaten niemals mit Drittanbietern, die nicht direkt mit dem Bereitstellen des Suchdienstes in Verbindung stehen, geteilt.
 
-## 7. Widerspruch oder Widerruf gegen die Verarbeitung Ihrer Daten
+## 8. Widerspruch oder Widerruf gegen die Verarbeitung Ihrer Daten
 
 Falls Sie eine Einwilligung zur Verarbeitung Ihrer Daten erteilt haben, können Sie diese jederzeit widerrufen. Ein solcher Widerruf beeinflusst die Zulässigkeit der Verarbeitung Ihrer personenbezogenen Daten, nachdem Sie ihn gegenüber uns ausgesprochen haben.
 

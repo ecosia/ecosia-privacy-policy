@@ -247,7 +247,7 @@ For further information on data protection in third-party suppliers which we com
 
 We never integrate tracking scripts or pixels into Ecosia search pages. Therefore, search data are never shared with third-party providers who are not directly connected with the provision of the search service.
 
-## 7. Refusal or withdrawal of the consent to processing of your data
+## 8. Refusal or withdrawal of the consent to processing of your data
 
 If you have granted your consent to the processing of your data, you can withdraw this at any time. Such a withdrawal influences the permissibility of processing of your personal data, on the basis that you have stated this to us.
 

@@ -248,7 +248,7 @@ Vous trouverez de plus amples informations relatives à la protection des donné
 
 Nous n'intégrons jamais des scripts et des pixels de suivi sur des pages de recherche Ecosia. Ainsi, des données de recherche ne sont jamais partagées avec des tiers qui ne sont pas directement associés à la fourniture du service de recherche.
 
-## 7. Opposition ou révocation contre le traitement de vos données
+## 8. Opposition ou révocation contre le traitement de vos données
 
 Si vous avez accordé votre consentement au traitement de vos données, vous pouvez à tout moment révoquer ce consentement. Une telle révocation influence la licéité du traitement de vos données à caractère personnel après sa présentation à notre encontre.
 
