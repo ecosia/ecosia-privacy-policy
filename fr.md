@@ -55,4 +55,4 @@ Vous pouvez joindre notre délégué à la protection des données à l’adress
 
 
 
-_Date de la déclaration sur la protection des données : 01/02/2020_
+_Date de la déclaration sur la protection des données : 08/11/2021_

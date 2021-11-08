@@ -53,4 +53,4 @@ Du hast gegenüber uns folgende Rechte hinsichtlich der Dich betreffenden person
 Bezüglich der Datenschutz-Grundverordnung (DSGVO) liegt die Verantwortung bei: Ecosia GmbH, Gerichtstraße 23, 13347 Berlin.
 Unseren Datenschutzbeauftragten erreichst du unter privacy@ecosia.org oder unter unserer Postadresse mit dem Zusatz „Datenschutz“.
 
-_Stand der Datenschutzerklärung: 08.10.2021_
+_Stand der Datenschutzerklärung: 08.11.2021

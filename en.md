@@ -60,4 +60,4 @@ Germany
 
 Our Data Protection Officer can be contacted at privacy@ecosia.org or our postal address with the addition of "data protection".
 
-_Data protection declaration version date: 01/10/2021_
+_Data protection declaration version date: 08/11/2021_
