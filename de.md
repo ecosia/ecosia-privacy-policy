@@ -5,18 +5,19 @@ Der Schutz Deiner Privatsphäre ist für uns von höchster Bedeutung. Diese Date
 
 Ecosia legt großen Wert auf den Schutz deiner Privatsphäre und deine personenbezogenen Daten. Wir speichern deine IP-Adresse für die Bereitstellung grundlegender Dienste, wie Spracheinstellungen und Spam-Schutz (siehe unten), für maximal sieben Tage und löschen sie dann wieder. Wir kaufen oder verkaufen weder deine personenbezogenen Daten, noch erstellen wir ein persönliches Profil von dir oder speichern deinen persönlichen Suchverlauf.
 
-Wir verwenden Elemente des Suchindex von Microsoft Bing, um dir passende Suchergebnisse anzuzeigen. Wir übermitteln unter keinen Umständen IP-Adressen zusammen mit Suchanfragen. Wir senden IP-Adressen nur in verschleierter Form an Microsoft, so wird beispielsweise die Adresse 192.168.152.223 in 192.168.XXX.XXX umgewandelt. Diese verschleierten Adressen können weder mit dir noch mit deinen Suchanfragen in Verbindung gebracht werden und werden nach 90 Tagen aus dem System von Microsoft gelöscht. Microsoft nutzt die IP Adresse zum Schutz vor Spam. Weitere Informationen findest du in der [Datenschutzrichtlinie von Microsoft](https://privacy.microsoft.com/de-de/privacystatement).
+Wir verwenden Elemente des Suchindex von Microsoft Bing, um dir passende Suchergebnisse anzuzeigen. Wir übermitteln unter keinen Umständen IP-Adressen zusammen mit Suchanfragen. Wir senden IP-Adressen nur in verschleierter Form an Microsoft, so wird beispielsweise die Adresse 192.168.152.223 in 192.168.XXX.XXX umgewandelt. Diese verschleierten Adressen können weder mit dir noch mit deinen Suchanfragen in Verbindung gebracht werden und werden nach 90 Tagen aus dem System von Microsoft gelöscht. Microsoft nutzt die IP Adresse zum Schutz vor Spam. Weitere Informationen findest du in der
+ [Datenschutzrichtlinie von Microsoft](https://privacy.microsoft.com/de-de/privacystatement). Mehr Details darüber, wie die Suchergebnisse zustandekommen, findest du in diesem [Artikel](https://ecosia.zendesk.com/hc/de/articles/4405237632914-Wie-Ecosia-Ihre-Inhalte-einordnet).
 
 Die personalisierten Suchanfragen sind optional und du kannst deine Präferenz jederzeit in den Einstellungen ändern. Wenn du die Einstellung für personalisierte Suchergebnisse aktivierst, erhältst du eine eindeutige Kennung von Microsoft Bing. So kann Bing deine Suchergebnisse auf Grundlage deines bisherigen Suchverlaufs anpassen und verbessern. Diese Daten werden nach 18 Monaten gelöscht. Weitere Informationen findest du in der [Datenschutzrichtlinie von Microsoft](https://privacy.microsoft.com/de-de/privacystatement).
 
-Wir nutzen in einigen Regionen unter Umständen die Dienste von Yahoo, um dir passende Suchergebnisse anzuzeigen. Dafür bitten wir dich vorher um dein Einverständnis. Wenn du über Ecosia Suchanfragen stellst, erhalten Yahoo und seine Partner*innen deine IP-Adresse zusammen mit deiner Suchanfrage und löschen beides nach einer Spam-Schutzdauer von maximal 90 Tagen. Weitere Informationen findest du in der [Datenschutzrichtlinie von Yahoo](https://legal.yahoo.com/ie/de/yahoo/privacy/index.html).
+In einigen Ländern außerhalb unserer Kernmärkte und -vertragsgebiete, nämlich in Indonesien, den Philippinen, Thailand und Vietnam, arbeiten wir zur Lieferung der Suchergebnisse mit Yahoo zusammen. Dort erhalten Yahoo und seine Partner*innen deine IP-Adresse zusammen mit deiner Suchanfrage und löschen beides nach einer Spam-Schutzdauer von maximal 90 Tagen. Weitere Informationen findest du in der [Datenschutzrichtlinie von Yahoo](https://legal.yahoo.com/ie/de/yahoo/privacy/index.html).
 
-Zum Schutz vor LauscherInnen erlauben wir nur sichere HTTPS-Verbindungen zu Ecosia und verwenden keine externen Tracking-Tools (siehe unten).
+Zum Schutz vor Lauscher\*innen erlauben wir nur sichere HTTPS-Verbindungen zu Ecosia und verwenden keine externen Tracking-Tools (siehe unten).
 
 ## Kontinuierliche Bereitstellung und Verbesserung der Ecosia Dienstleistungen
 ### Analysecookies
 
-Wir verwenden weder Google Analytics noch andere externe Tracking-Tools. Stattdessen verwenden wir ein selbst gehostetes, sicheres und vollständig verschlüsseltes Webanalyse-Tool, das keine _personenbezogenen_ Daten erfasst. Wenn du _überhaupt_ kein Tracking wünschst, kannst du in deinem Browser die Option „Do Not Track“ aktivieren.
+Wir verwenden weder Google Analytics noch andere externe Tracking-Tools. Stattdessen verwenden wir ein selbst gehostetes, sicheres und vollständig verschlüsseltes Webanalyse-Tool, das keine personenbezogenen Daten erfasst. Wenn du kein Tracking wünschst, kannst du in deinem Browser die Option „Do Not Track“ aktivieren.
 
 Da wir keine personenbezogenen Daten speichern, werden (und können) wir deine Daten auch nicht an andere Parteien verkaufen oder personenbezogenen Daten von anderen kaufen.
 
@@ -29,11 +30,12 @@ Spam-Angriffe sind kostspielig und können unsere Baumpflanzarbeit finanziell ne
 Zur Verbesserung unserer Browser-Apps erheben wir Nutzungsstatistiken sowie den Namen des Geräts, den Hersteller, das Modell, die Nummer des Betriebssystems und die App-Nummer oder SDK-Version.
 
 Zur Erfassung und Analyse von Absturzberichten unserer Android-App nutzen wir den Dienst eines Drittanbieters („App Center“). Dazu gehören Daten, die uns bei der Fehlerbehebung helfen, z. B. die App-Nummer, das Gerätemodell und das Betriebssystem.
+
 Weitere Informationen dazu, wie „App Center“ mit deinen Daten umgeht, findest du in der [Datenschutzerklärung von Microsoft](https://privacy.microsoft.com/de-de/privacystatement).
 
 ## Ecosia bekannter machen
 
-Um mehr neue NutzerInnen zu erreichen und mehr Bäume zu pflanzen, verwenden wir externe Plattformen. Bei der Erstinstallation der Ecosia Erweiterung sehen neue Desktop-NutzerInnen eine Seite, die unseren WerbepartnerInnen zurückmeldet, dass sie Ecosia installiert haben. Zum Schutz der Privatsphäre deiner Suchanfragen ist diese Seite nicht mit unserem Suchdienst verbunden. Dank dieser Seite wissen wir, welche Anzeigen uns geholfen haben, Bäume zu pflanzen, und wir können aufhören, in jene zu investieren, die sich als ineffektiv erweisen. Wir testen regelmäßig neue Plattformen und entfernen diejenigen, deren Dienste nicht effektiv sind. Zu den Plattformen, die wir aktuell verwenden oder zukünftig testen möchten, zählen [Google Ads](https://policies.google.com/privacy?hl=de), der [App Store von Apple](https://support.apple.com/de-de/HT211970), [Facebook](https://www.facebook.com/policy.php/), [Microsoft Bing](https://about.ads.microsoft.com/de-de/policies/legal-privacy-and-security), [Twitch](https://www.twitch.tv/p/de-de/legal/privacy-notice/) und [TikTok](https://www.tiktok.com/legal/privacy-policy-eea?lang=de).
+Um mehr neue Nutzer\*innen zu erreichen und mehr Bäume zu pflanzen, verwenden wir externe Plattformen. Bei der Erstinstallation der Ecosia Erweiterung sehen neue Desktop-Nutzer\*innen eine Seite, die unseren Werbepartner*innen zurückmeldet, dass sie Ecosia installiert haben. Zum Schutz der Privatsphäre deiner Suchanfragen ist diese Seite nicht mit unserem Suchdienst verbunden. Dank dieser Seite wissen wir, welche Anzeigen uns geholfen haben, Bäume zu pflanzen, und wir können aufhören, in jene zu investieren, die sich als ineffektiv erweisen. Wir testen regelmäßig neue Plattformen und entfernen diejenigen, deren Dienste nicht effektiv sind. Zu den Plattformen, die wir aktuell verwenden oder zukünftig testen möchten, zählen [Google Ads](https://policies.google.com/privacy?hl=de), der [App Store von Apple](https://support.apple.com/de-de/HT211970), [Facebook](https://www.facebook.com/about/privacy), [Microsoft Bing](https://about.ads.microsoft.com/de-de/policies/legal-privacy-and-security), [Twitch](https://www.twitch.tv/p/en/legal/privacy-notice/) und [TikTok](https://www.tiktok.com/legal/privacy-policy-eea?lang=de).
 
 Wir geben deine Suchdaten unter keinen Umständen an Werbedienste weiter. In unseren monatlichen [Finanzberichten](https://de.blog.ecosia.org/ecosia-finanzberichte-baumplanzbelege/) kannst du nachverfolgen, wie viel Geld wir für Werbung ausgeben.
 
@@ -51,6 +53,7 @@ Du hast gegenüber uns folgende Rechte hinsichtlich der Dich betreffenden person
 ## Kontakt
 
 Bezüglich der Datenschutz-Grundverordnung (DSGVO) liegt die Verantwortung bei: Ecosia GmbH, Gerichtstraße 23, 13347 Berlin.
+
 Unseren Datenschutzbeauftragten erreichst du unter privacy@ecosia.org oder unter unserer Postadresse mit dem Zusatz „Datenschutz“.
 
-_Stand der Datenschutzerklärung: 08.11.2021
+Zuletzt geändert: 01. August 2022

@@ -6,19 +6,19 @@ Ecosia is committed to protecting your privacy and personal data. In order to pr
 
 We use elements of Microsoft Bing’s search index to deliver results. We never communicate IP addresses along with search queries. We only send IP addresses to Microsoft in obfuscated form, meaning we remove parts of the IP address when we store it. For example 192.168.152.223 becomes 192.168.XXX.XXX. These obfuscated addresses cannot be linked either to you or your searches, and are deleted from Microsoft’s system after 90 days. Microsoft uses the IP address for spam protection. For more information, please refer to their [Privacy Statement](https://privacy.microsoft.com/privacystatement).
 
-Personalized search is optional, and you can change your preference via our settings menu any time. If you use personalized search results, you get a unique identifier assigned from Microsoft Bing, which can tailor your search results based on your previous search history. This data gets deleted after 18 months. For further details, please refer to [Microsoft’s Privacy Policy](https://privacy.microsoft.com/privacystatement).
+Personalized search is optional, and you can change your preference via our settings menu any time. If you use personalized search results, you get a unique identifier assigned from Microsoft Bing, which can tailor your search results based on your previous search history. This data gets deleted after 18 months. For further details, please refer to Microsoft’s Privacy Policy.
 
-We may use Yahoo´s services in some regions to deliver search results to you. When you search with Ecosia, Yahoo and their partners receive your IP address along with your search query, and delete both after no more than 90 days. For further information, please refer to [Yahoo’s Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html).
+In some countries outside our core markets and contract areas, namely in Indonesia, the Philippines, Thailand and Vietnam, partner with Yahoo in order to deliver search results to you. When you search with Ecosia, Yahoo and their partners receive your IP address along with your search query, and delete both after no more than 90 days. For further information, please refer to [Yahoo’s Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html).
 
 To keep out eavesdroppers, we only allow secure HTTPS connections to Ecosia and don’t use external tracking tools (see below).
+
 
 ## Maintaining and improving Ecosia services
 ### Analytics
 
-We do not use Google Analytics nor any other external tracking tool. Instead, we use a self-hosted, safe and fully encrypted web analysis tool that doesn’t track any _personal_ data. You can also opt-out of _any_ tracking by selecting “do not track” in your browser settings.
+We do not use Google Analytics nor any other external tracking tool. Instead, we use a self-hosted, safe and fully encrypted web analysis tool that doesn’t track any personal data. You can also opt-out of any tracking by selecting “do not track” in your browser settings.
 
 Since we do not store any personal data, we also do not (and cannot) sell your data to other parties. Nor do we buy personal data from others.
-
 
 ### Spam Protection
 
@@ -53,11 +53,8 @@ You have the following rights with respect to your personal data:
 
 In relation to the General Data Protection Regulation (GDPR), the organisation responsible is:
 
-Ecosia GmbH,
-Gerichtstraße 23
-13347 Berlin
-Germany
+Ecosia GmbH, Gerichtstraße 23, 13347 Berlin, Germany
 
 Our Data Protection Officer can be contacted at privacy@ecosia.org or our postal address with the addition of "data protection".
 
-_Data protection declaration version date: 08/11/2021_
+Last modified: August 1st, 2022
